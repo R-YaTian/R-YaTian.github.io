@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "nord"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DSi Guide"
+title                    : "DS Homebrew"
 title_separator          : "-"
-name                     : "jerbear64 & emiyl"
-description              : "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
-url                      : "https://dsi.cfw.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "dsi.cfw.guide"
+name                     : "NightYoshi370 & emiyl"
+description              : "A complete guide to homebrewing your Nintendo (3)DS(i)."
+url                      : "https://ds-homebrew.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "ds-homebrew.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "emiyl/dsi.cfw.guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "DS-Homebrew/ds-homebrew.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "emiyl"
+  name             : "NightYoshi370"
   avatar           : "bio-photo.jpg"
   bio              : "Guide Writer"
-  location         : "England"
-  email            : "emily@cfw.guide"
+  location         : "USA"
+  email            : "nightyoshi370@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emiyl"
+  github           : "nightyoshi370"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "cfw_guide"
+  twitter          : "nightyoshi370"
   vine             :
   weibo            :
   xing             :
