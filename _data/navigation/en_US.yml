@@ -1,17 +1,11 @@
 ---
 main:
   -
-    title: DSi Guide
+    title: DS Homebrew
     url: /
   -
     title: FAQ
     url: faq
-  -
-    title: Donations
-    url: donations
-  -
-    title: Credits
-    url: credits
   -
     title: Dumping DSiWare
     url: dumping-dsiware
@@ -19,8 +13,8 @@ main:
     title: Installing DSiWare
     url: installing-dsiware
   -
-    title: Replacing System Menu with TWiLight Menu++
-    url: replacing-system-menu-with-twilight-menu++
+    title: Installing TWiLight Menu++
+    url: installing-twilight-menu++
   -
     title: Site Navigation
     url: site-navigation
@@ -52,4 +46,4 @@ sidebar_pages:
     url: installing-hiyacfw
   -
     title: Installing TWiLight Menu++
-    url: installing-twlmenu++
+    url: installing-twilight-menu++
