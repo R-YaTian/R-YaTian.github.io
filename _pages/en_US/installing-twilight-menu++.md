@@ -13,7 +13,7 @@ redirect_from:
 
 {% include toc title="Table of Contents" %}
 
-TWiLightMenu++ is an open-source & customizable alternative to the Nintendo DSi's System Menu. It can be used as a frontend for either nds-bootstrap or supported flashcards. It also provides a unified interface for launching NES, SNES, Gameboy (color), SEGA GameGear, SEGA Genesis, Nintendo DS & DSiWare titles.
+TWiLight Menu++ is an open-source & customizable alternative to the Nintendo DSi's System Menu. It can be used as a frontend for either nds-bootstrap or supported flashcards. It also provides a unified interface for launching NES, SNES, Gameboy (color), SEGA GameGear, SEGA Genesis, Nintendo DS & DSiWare titles.
 
 ## Downloads
 
@@ -32,8 +32,8 @@ TWiLightMenu++ is an open-source & customizable alternative to the Nintendo DSi'
 6. For DSi & 3DS users, copy the `_nds` folder and `boot.nds` file from `DSi&3DS - SD card users` folder to the root of your SD card
 7. For 3DS users, install the 3 cia files found inside the cia folder using FBI.
 
-For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.
-For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard loader.
+For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.{: .notice--info}
+For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard loader.{: .notice--info}
 
 ## Automatic Installation (for 3DS users)
 
@@ -41,6 +41,8 @@ For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard load
 2. Install `TWiLightMenu-Updater.cia` using FBI.
 3. Launch the updater.
 4. Download the latest release of TWiLightMenu++ & nds-bootstrap using the updater.
+
+TWiLight Menu++ should now appear on your System Menu, as any other DSiWare would be{: .notice--info}
 
 ## Usage
 
