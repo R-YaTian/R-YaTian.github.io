@@ -13,40 +13,43 @@ redirect_from:
 
 {% include toc title="Table of Contents" %}
 
-TWiLightMenu++ is an open-source & customizable alternative to the Nintendo DSi's System Menu. It can be used as a frontend for either nds-bootstrap or supported flashcards. It also provides a unified interface for launching NES, SNES, Gameboy (Color), SEGA GameGear, SEGA Genesis, Nintendo DS & DSiWare titles.
+TWiLightMenu++ is an open-source & customizable alternative to the Nintendo DSi's System Menu. It can be used as a frontend for either nds-bootstrap or supported flashcards. It also provides a unified interface for launching NES, SNES, Gameboy (color), SEGA GameGear, SEGA Genesis, Nintendo DS & DSiWare titles.
 
 ## Downloads
 
 - The latest release of [TWiLight Menu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
+- The latest release of [FBI](https://github.com/Steveice10/FBI/releases){:target="_blank"} for 3DS users
+- The latest release of the [TWiLight Menu++ Updater](https://github.com/RocketRobz/TWiLightMenu-Updater/releases){:target="_blank"} for 3DS users
 
-## Instructions
+## Manual Installation (for 3DS, DSi & Flashcard users)
 
 1. Open the TWiLight Menu++ `.7z` file
-2. Copy *the contents of* the `SDNAND root` folder in the `DSi - CFW users` folder to the root of your SD card
-3. Copy the `_nds` and `roms` folders to the root of your SD card
-4. Copy the `_nds` folder and `boot.nds` file from `DSi&3DS - SD card users` folder to the root of your SD card
-    - On Windows, merge files when asked to
-5. Power on your system
-    - TWiLight Menu++ should now be a DSiWare on your system
+2. Copy the `_nds` folder to the root of your SD card
+3. For DSi users, copy *the contents of* the `SDNAND root` folder in the `DSi - CFW users` folder to the root of your SD card
+4. For 3DS users, copy *the contents of* the `3DS - CFW users` folder to the `cia` folder of your SD card.
+5. For 3DS users, copy `TWiLightMenu-Updater.cia` to the `cia` folder of your SD card
+5. For flashcard users, copy the `_nds` folder and the `boot.nds` file located inside the `flashcard` folder to the root of your SD card
+6. For DSi & 3DS users, copy the `_nds` folder and `boot.nds` file from `DSi&3DS - SD card users` folder to the root of your SD card
+7. For 3DS users, install the 3 cia files found inside the cia folder using FBI.
 
-TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.
+For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.
+For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard loader.
+
+## Automatic Installation (for 3DS users)
+
+1. Copy `TWiLightMenu-Updater.cia` to the `cia` folder of your SD card
+2. Install `TWiLightMenu-Updater.cia` using FBI.
+3. Launch the updater.
+4. Download the latest release of TWiLightMenu++ & nds-bootstrap using the updater.
 
 ## Usage
 
-1. Copy ROMs to their respective folders
-  - Place Gameboy roms in `/roms/gb`
-  - Place NDS roms in `/roms/nds`
-  - Place NES roms in `/roms/nes`
-  - For GBA, make a folder in `roms` named `gba` and place roms there
-  - GBA requires a copy of the GBA BIOS named `bios.bin` on the root of your SD card
-2. Launch TWiLight Menu++ from the Home Menu
-3. You will now see a list of your NDS ROMs
-  - Press (A) to launch ROMs
-  - Touch the GBA icon, which starts GBARunner2, to run GBA ROMs
-  - Touch the HOME icon to return to the DSi Menu
-4. (optional) If you have Unlaunch and HiyaCFW, TWiLight Menu++ can completely replace your System Menu. This can help work around several bugs with SD card sizes and the DSiWare block limit.
+- To launch Gameboy Advance games, you'll need a copy of the GBA BIOS named `bios.bin` on the root of your SD card.
+- You can place ROMs anywhere on the SD card.
+- For DSi users, if you have Unlaunch and HiyaCFW, TWiLight Menu++ can completely replace your System Menu. This can help work around several bugs with SD card sizes and the DSiWare block limit.
+- For flashcard users, if you have a compatible flashcard, you can make your flashcard autoboot into TWiLight Menu++.
 
-## (optional) Replacing the System Menu
+## (DSi) Replacing the System Menu
 
 You must have [Unlaunch](/guide/installing-unlaunch/) and [HiyaCFW](/guide/installing-hiyacfw/) installed before proceeding.
 {: .notice--info}
