@@ -4,9 +4,7 @@ title: "File Extensions (Windows)"
 
 {% include toc title="Table of Contents" %}
 
-This is an add-on section for disabling Windows's default behavior of hiding file extensions.
-
-This will make it easier for you to find the referenced files in the rest of this guide.
+This add-on section disables Windows's default behavior of hiding file extentions, which makes it easier for you to find the referenced file in the guide.
 
 ### Instructions
 
@@ -33,5 +31,3 @@ This will make it easier for you to find the referenced files in the rest of thi
     ![]({{ "/assets/images/windows-7-folder-options.png" | absolute_url }})
     {: .notice--info}
 
-Return to [Installing Unlaunch](installing-unlaunch)
-{: .notice--info}
