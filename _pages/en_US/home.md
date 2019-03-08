@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: DSi Guide
-excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
+title: DS Homebrew
+excerpt: "A complete guide to homebrewing your Nintendo (3)DS(i)."
 header:
   overlay_color: "#1a1d24"
   cta_label: "Get Started"
-  cta_url: installing-unlaunch
+  cta_url: getting-started
 ---
 
 For complete guides to homebrew and custom firmware for other devices, check out [CFW.Guide](https://cfw.guide).
@@ -16,12 +16,6 @@ This guide is not compatible with development DSi consoles or Chinese iQue DSi c
 
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
 {: .notice--info}
-
-{% capture notice-1 %}
-This guide is available in other languages!
-Click the <i class="fa fa-language" aria-hidden="true"></i> icon at the top right of the page to change the language.    
-Alternatively, click [here](https://crowdin.com/project/dsi-guide) to help to keep these translations up to date.
-{% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -47,4 +41,4 @@ Custom firmware enables you to use more advanced hacks that userland homebrew ca
 - Keep your console plugged in at all times during this process to avoid sudden power loss
 - You will need an SD card to use this guide
   - Your console should come with one
-- After following this guide, you will be able to use flashcards you were previously unable to boot into due to blacklists set inside the console.
+- After following this guide, you will be able to use flashcards you were previously unable to boot into due to blacklists set inside the official firmware.
