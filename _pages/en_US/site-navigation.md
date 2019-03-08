@@ -9,7 +9,7 @@ sitemap: false
 
 + [Installing Unlaunch](installing-unlaunch)
 + [Installing HiyaCFW](installing-hiyacfw)
-+ [Replacing System Menu with TWiLight Menu++](replacing-system-menu-with-twilight-menu++)
++ [Installing TWiLight Menu++](installing-twilight-menu++)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -30,6 +30,5 @@ sitemap: false
 + [Installing TWiLight Menu++](installing-twilight-menu++)
 + [Installing Unlaunch (TempNAND)](installing-unlaunch-(tempnand))
 + [Installing Unlaunch](installing-unlaunch)
-+ [Replacing System Menu with TWiLight Menu++](replacing-system-menu-with-twilight-menu++)
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
