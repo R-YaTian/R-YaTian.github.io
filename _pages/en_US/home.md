@@ -29,11 +29,15 @@ Alternatively, click [here](https://crowdin.com/project/dsi-guide) to help to ke
 
 Homebrew applications are custom, user-made software, which haven't been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
 
-Homebrew can be run for free on your DSi as long as you have a copy of Flipnote Studio or a previous DSiWare exploit installed.
+DS Homebrew can be run for free on your DSi as long as you have a copy of Flipnote Studio or a previous DSiWare exploit installed.
+DS Homebrew can be run for free on your 3DS as long as your have 3DS CFW installed.
+DS Homebrew can be run on your original DS as long as you have a Nintendo DS flashcard
 
 ## What does this guide install?
 
-This guide will install HiyaCFW, a custom firmware for the DSi. CFW can be set up on any console on any version.
+For Nintendo DS users, this guide will setup your flashcard to be able to play Nintendo DS ROM.
+For Nintendo DSi users, this guide will install HiyaCFW, a custom firmware for the DSi.
+For Nintendo 3DS users, this guide will enable you to play Nintendo DS ROMs through nds-bootstrap.
 
 Custom firmware enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, signature patches let you install unsigned titles that appear right on your System Menu.
 
@@ -43,6 +47,3 @@ Custom firmware enables you to use more advanced hacks that userland homebrew ca
 - Keep your console plugged in at all times during this process to avoid sudden power loss
 - You will need an SD card to use this guide
   - Your console should come with one
-
-Continue to [Installing Unlaunch](installing-unlaunch)
-{: .notice--info}
