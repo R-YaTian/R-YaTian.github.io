@@ -41,17 +41,15 @@ The list should be sorted alphabetically.
 - [System files](http://filetrip.net/f21926-AKAIO-1-8-1.html)
 - Firmware upgrade: http://filetrip.net/f18393-AceKard-2i-firmware-1-4-1.html
 - DSi compatible: Yes
-- [http://gbatemp.net/index.php?showtopic=122563 Official GBAtemp Review]
-- [http://shoptemp.com/products/Acekard-2i-Card-for-Nintendo-DS-DS-Lite-DSi-p-30.html Acekard 2i] on ShopTemp.com
+- [GBATemp Review](http://gbatemp.net/index.php?showtopic=122563)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2i-Card-for-Nintendo-DS-DS-Lite-DSi-p-30.html)
 
 ## CycloDS Evolution
-- Official website: http://www.cyclopsds.com
-- System files (Stable): http://filetrip.net/g35130821-CycloDS-Evolution-Firmware.html
-- System files (Beta): http://filetrip.net/file.php?id=10254
-- System Files (GUI Beta):http://filetrip.net/file.php?id=12193
+- [Official website](http://www.cyclopsds.com)
+- System files: \[[Stable](http://filetrip.net/g35130821-CycloDS-Evolution-Firmware.html)/[Beta](http://filetrip.net/file.php?id=10254)/[GUI Beta](http://filetrip.net/file.php?id=12193)]
 - DSi compatible: No
-- [http://gbatemp.net/t53450-cyclods-evolution-review CycloDS Evolution Review] on GBAtemp.net
-- [http://shoptemp.com/products/CycloDS-Evolution-Card-for-Nintendo-DS-DS-Lite-p-42.html CycloDS Evolution] on ShopTemp.com
+- [GBATemp Review](https://gbatemp.net/threads/cyclods-evolution-review.53450/)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/CycloDS-Evolution-Card-for-Nintendo-DS-DS-Lite-p-42.html)
 
 ## DS Fire Link
 - Official website: http://dsfirelink.com
@@ -273,264 +271,264 @@ The list should be sorted alphabetically.
 - Official website: http://m3isdhc.com/
 - System files: http://filetrip.net/f19585-M3iSDHC-1-4.html
 
-==M3i Upgrade==
-*Official website: http://m3iupgrade.com/
-*System files: http://filetrip.net/f19507-m3iupgrade-M3i-1-45-English.html
+## M3i Upgrade
+- Official website: http://m3iupgrade.com/
+- System files: http://filetrip.net/f19507-m3iupgrade-M3i-1-45-English.html
 
-==M3l Upgrade==
-*Official website: http://m3iupgrade.com/
-*System files: http://filetrip.net/f19507-m3iupgrade-M3i-1-45-English.html
+## M3l Upgrade
+- Official website: http://m3iupgrade.com/
+- System files: http://filetrip.net/f19507-m3iupgrade-M3i-1-45-English.html
 
-==MARS==
-*System files: http://filetrip.net/f19586-MARS-1-03-English.html
+## MARS
+- System files: http://filetrip.net/f19586-MARS-1-03-English.html
 
-==Max Media Player==
-*Official website: http://us.codejunkies.com/mpds/index.htm
-*System files: http://filetrip.net/f18958-MMPDS-1-22.html
+## Max Media Player
+- Official website: http://us.codejunkies.com/mpds/index.htm
+- System files: http://filetrip.net/f18958-MMPDS-1-22.html
 
-==N5==
-*Official website: http://www.dsn5.com/EN-N5/n5-en.htm
-*System files: http://filetrip.net/f19609-N5-1-32-English.html
+## N5
+- Official website: http://www.dsn5.com/EN-N5/n5-en.htm
+- System files: http://filetrip.net/f19609-N5-1-32-English.html
 
-==N5i==
-*Official website: http://www.dsn5.com/EN-N5/n5-en.htm
-*System files: http://filetrip.net/f19605-N5i-2-03-English.html
+## N5i
+- Official website: http://www.dsn5.com/EN-N5/n5-en.htm
+- System files: http://filetrip.net/f19605-N5i-2-03-English.html
 
-==NCard II==
+## NCard II
 
-==ND1==
+## ND1
 
-==NinjaDS==
+## NinjaDS
 
-==NPlayer==
+## NPlayer
 
-==R4 3DS Upgrade SDHC Dual-Core RTS (2016)==
-*Official website: http://r4-usas.com/ (down, try https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
-*System files: https://filetrip.net/dl?OS0gcYLItX
-*White card, black background on sticker. Sticker has brushed stainless appearance with red (2016) logo in upper right of sticker on cart.
-*I nearly threw mine in the trash before I found a copy of the firmware that this card needs on my other computer (R4i-V3.9b English.rar).
-*This card will not work right with any other FW except the file I've posted on filetrip. You'll either be unable to launch games and get an error about "Savfile not founded" or you'll get a message stating that the card is counterfeit when it boots up. Even trying the FW's that you can download from the wayback archive's snapshots of the r4-usas website will not let you boot with the card. Before the website was taken down, they had posted the FW file I am listing on here. I believe it was only released for this card.
+## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
+- Official website: http://r4-usas.com/ (down, try https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
+- System files: https://filetrip.net/dl?OS0gcYLItX
+- White card, black background on sticker. Sticker has brushed stainless appearance with red (2016) logo in upper right of sticker on cart.
+- I nearly threw mine in the trash before I found a copy of the firmware that this card needs on my other computer (R4i-V3.9b English.rar).
+- This card will not work right with any other FW except the file I've posted on filetrip. You'll either be unable to launch games and get an error about "Savfile not founded" or you'll get a message stating that the card is counterfeit when it boots up. Even trying the FW's that you can download from the wayback archive's snapshots of the r4-usas website will not let you boot with the card. Before the website was taken down, they had posted the FW file I am listing on here. I believe it was only released for this card.
 
-==R4 Advance==
+## R4 Advance
 
-==R4 Deluxe==
+## R4 Deluxe
 
-==R4 DSi XL==
+## R4 DSi XL
 
-==R4 i.L.S.==
+## R4 i.L.S.
 
-==R4 King==
+## R4 King
 
-==R4 New==
+## R4 New
 
-==R4 Plus (r4.ndsl.cc)==
-*Official website: http://www.r4.ndsl.cc/
+## R4 Plus (r4.ndsl.cc)
+- Official website: http://www.r4.ndsl.cc/
 
-==R4 Plus (r4plus.net)==
-*Official website: http://www.r4plus.net/
+## R4 Plus (r4plus.net)
+- Official website: http://www.r4plus.net/
 
-==R4 Pro==
+## R4 Pro
 
-==R4 SDHC (r4new.com)==
-*Official website: http://www.r4new.com/
+## R4 SDHC (r4new.com)
+- Official website: http://www.r4new.com/
 
-==R4 SDHC (r4sdhc.com)==
-*Official website: http://www.r4sdhc.com/
+## R4 SDHC (r4sdhc.com)
+- Official website: http://www.r4sdhc.com/
 
-==R4 SDHC Upgrade==
-*Official website: http://www.r4i-sdhc.com/
-*System files: http://filetrip.net/f22650-R4-SDHC-Upgrade-%28r4i-sdhc-com%29-1-27b-English.html
-*DSi compatible: No
-*[http://shoptemp.com/products/R4-SDHC-Card-for-Nintendo-DS-DS-Lite-p-35.html R4-SDHC Upgrade] on ShopTemp.com
+## R4 SDHC Upgrade
+- Official website: http://www.r4i-sdhc.com/
+- System files: http://filetrip.net/f22650-R4-SDHC-Upgrade-%28r4i-sdhc-com%29-1-27b-English.html
+- DSi compatible: No
+- [http://shoptemp.com/products/R4-SDHC-Card-for-Nintendo-DS-DS-Lite-p-35.html R4-SDHC Upgrade] on ShopTemp.com
 
-==R4 Team==
+## R4 Team
 
-==R4 Top==
+## R4 Top
 
-==R4 Ultra==
-*Official website: http://www.r4ultra.com
-*System files: http://www.r4ultra.com/download.htm
+## R4 Ultra
+- Official website: http://www.r4ultra.com
+- System files: http://www.r4ultra.com/download.htm
 
-==R4 Upgrade (r4-dsl.net)==
-*Official website: http://www.r4-dsl.net/
+## R4 Upgrade (r4-dsl.net)
+- Official website: http://www.r4-dsl.net/
 
-==R4 II==
+## R4 II
 
-==R4 III (r4-dsl.net)==
-*Official website: http://www.r4-dsl.net/
+## R4 III (r4-dsl.net)
+- Official website: http://www.r4-dsl.net/
 
-==R4 III SDHC==
+## R4 III SDHC
 
-==R4 III Upgrade (r4dsl.net)==
-*Official website: http://www.r4dsl.net/
+## R4 III Upgrade (r4dsl.net)
+- Official website: http://www.r4dsl.net/
 
-==R4 New==
+## R4 New
 
-==R4 Pro==
+## R4 Pro
 
-==R4 v==
+## R4 v
 
-==R4ds-i==
+## R4ds-i
 
-==R4dsixl3d==
+## R4dsixl3d
 
-==R4i3D (2014)==
-*Official website: http://www.r4i3d.com/
+## R4i3D (2014)
+- Official website: http://www.r4i3d.com/
 
-==R4i (r4i.cn)==
-*Official website: http://www.r4i.cn/
+## R4i (r4i.cn)
+- Official website: http://www.r4i.cn/
 
-==R4i (r4idsn.com)==
-*Official website: http://www.r4idsn.com/
+## R4i (r4idsn.com)
+- Official website: http://www.r4idsn.com/
 
-==R4i (r4ultra.com)==
-*Official website: http://www.r4ultra.com/
+## R4i (r4ultra.com)
+- Official website: http://www.r4ultra.com/
 
-==R4i Advance==
+## R4i Advance
 
-==R4i Best==
+## R4i Best
 
-==R4i Blue==
-Official website: http://www.r4i-blue.com/indexe.html
+## R4i Blue
+- Official website: http://www.r4i-blue.com/indexe.html
 
-==R4i Deluxe==
+## R4i Deluxe
 
-==R4i DSHC== 
-* Labeled as R4i SDHC
-* Official website: http://www.R4i-DSHC.com
-* Clone of the DSTT
+## R4i DSHC
+- Labeled as R4i SDHC
+- Official website: http://www.R4i-DSHC.com
+- Clone of the DSTT
 
-==R4i FIFA==
-* Official website: http://www.r4i-fifa.com/r4_index_en.htm
+## R4i FIFA
+- Official website: http://www.r4i-fifa.com/r4_index_en.htm
 
-==R4i Gold (r4ids.cn)==
-*Official website: http://www.r4ids.cn/
-*System files: http://filetrip.net/f22607-R4ids-Gold-Official-Firmware-V1-40.html
-*Unofficial system files: http://filetrip.net/f21887-Wood-R4-for-R4i-Gold-%28R4iDS%29-1-14.html
-*DSi compatible: Yes
-*[http://shoptemp.com/products/R4i-Gold-Card-Wood-Compatible-for-NDS-DS-Lite-DSi-p-33.html R4i Gold] on ShopTemp
-*Said to be based on Acekard 2i OEM (TBC)
+## R4i Gold (r4ids.cn)
+- Official website: http://www.r4ids.cn/
+- System files: http://filetrip.net/f22607-R4ids-Gold-Official-Firmware-V1-40.html
+- Unofficial system files: http://filetrip.net/f21887-Wood-R4-for-R4i-Gold-%28R4iDS%29-1-14.html
+- DSi compatible: Yes
+- [http://shoptemp.com/products/R4i-Gold-Card-Wood-Compatible-for-NDS-DS-Lite-DSi-p-33.html R4i Gold] on ShopTemp
+- Said to be based on Acekard 2i OEM (TBC)
 
-==R4i Gold (r4i-gold.com)==
-*Official website: http://www.r4i-gold.com/
-*DSTTi Clone (use YSMenu)
+## R4i Gold (r4i-gold.com)
+- Official website: http://www.r4i-gold.com/
+- DSTTi Clone (use YSMenu)
 
-==R4i Gold (r4i-gold.eu)==
-*Official website: http://r4i-gold.eu
-*System files: http://filetrip.net/f21062-r4i-gold-eu-1-35b-English.html
+## R4i Gold (r4i-gold.eu)
+- Official website: http://r4i-gold.eu
+- System files: http://filetrip.net/f21062-r4i-gold-eu-1-35b-English.html
 
-==R4i Gold (r4idsxl.com)==
-*Official website: http://www.r4idsxl.com/
-*System files: http://filetrip.net/f20897-r4idsxl-1-19b-English.html
+## R4i Gold (r4idsxl.com)
+- Official website: http://www.r4idsxl.com/
+- System files: http://filetrip.net/f20897-r4idsxl-1-19b-English.html
 
-==R4i Gold (r4igold.cn)==
-*Official website: http://www.r4igold.cn/
-*System files: http://filetrip.net/f21042-R4iGold-1-14b-English.html
+## R4i Gold (r4igold.cn)
+- Official website: http://www.r4igold.cn/
+- System files: http://filetrip.net/f21042-R4iGold-1-14b-English.html
 
-==R4i II==
-*Official website: http://www.r4i-sdhc.com.hk (dead)
-*System files: http://filetrip.net/f21103-R4i-II-1-09b-English.html
+## R4i II
+- Official website: http://www.r4i-sdhc.com.hk (dead)
+- System files: http://filetrip.net/f21103-R4i-II-1-09b-English.html
 
-==R4i NDSill==
-Green sticker R4i, with the website www.ndsill.net indicated there.
-English 1.45 firmware (linfox domain): [http://www.linfoxdomain.com/nintendo/ds/dl.php/ndsill_v1.45_English.rar]
-other language firmware also available under the R4i Ndsill www.ndsill.net links
-Official firmware 1.42 available from original website.
-1.43 flasher (upgrade package) for 3DS and DSi 1.4.3 compatibility available there as well. WARNING: I have personally tried the flasher and it bricked my R4i. I'll try getting it to work, but assume that it will brick yours as well. So unless your card was pre-flashed to work on the 3DS, I don't recommend updating, yet. Kernels are fine though, it's the "upgrade package" (illto143.nds) that's not working for me.
+## R4i NDSill
+- Green sticker R4i, with the website www.ndsill.net indicated there.
+- English 1.45 firmware (linfox domain): [http://www.linfoxdomain.com/nintendo/ds/dl.php/ndsill_v1.45_English.rar]
+- other language firmware also available under the R4i Ndsill www.ndsill.net links
+- Official firmware 1.42 available from original website.
+-1.43 flasher (upgrade package) for 3DS and DSi 1.4.3 compatibility available there as well.
+
+WARNING: I have personally tried the flasher and it bricked my R4i. I'll try getting it to work, but assume that it will brick yours as well. So unless your card was pre-flashed to work on the 3DS, I don't recommend updating, yet. Kernels are fine though, it's the "upgrade package" (illto143.nds) that's not working for me.
 
 EDIT::
 I can confirm this also happened to me and i am unable to get it back working (DO NOT UPDATE) I did hear that we can get it working if we use another R4 card but only from one website and i chose to buy another GENUINE card
 
 Also support from ndsill.net is 0%,, i wouldnt buy from them or touch their cards again... Brought by mistake and bad company imo
 
-==R4i NDSiXL 3D==
+## R4i NDSiXL 3D
 After updating mine it bricked it
 
-==R4i Neo==
+## R4i Neo
 
-==R4i Platinum==
-[http://r4iplat.com/ Official Site]
+## R4i Platinum
+[Official Website](http://r4iplat.com/)
 
-==R4i Pocket==
+## R4i Pocket
 
-==R4i Pro Upgrade==
+## R4i Pro Upgrade
 
-==R4i Redant==
+## R4i Redant
 
 Official Site: [http://www.r4i-redant.com/indexe.html]
 
-==R4i RTS==
-*Official website English: http://www.r4rts.com/
-*Official website Chinese: http://www.r4rts.cn/
+## R4i RTS
+- Official website English: http://www.r4rts.com/
+- Official website Chinese: http://www.r4rts.cn/
 
-==R4i Upgrade (ndsr4i.com)==
-*Official website: http://www.ndsr4i.com/
-WEBSITE IS NO MORE.... Firmware can be found here: [http://www.linfoxdomain.com/nintendo/ds/]
+## R4i Upgrade (ndsr4i.com)
+- Official website: http://www.ndsr4i.com/
+- WEBSITE IS NO MORE.... Firmware can be found here: [http://www.linfoxdomain.com/nintendo/ds/]
 
-==R4i SDHC (r4-v.com)==
-*Official website: http://www.r4-v.cn/
+## R4i SDHC (r4-v.com)
+- Official website: http://www.r4-v.cn/
 
-==R4i SDHC (r4rts.com)==
-*Official website: http://www.r4ids.cn/
+## R4i SDHC (r4rts.com)
+- Official website: http://www.r4ids.cn/
 
-==R4i SDHC Upgrade 1.4==
+## R4i SDHC Upgrade 1.4
 
-==R4i SDHC Upgrade 1.4.1==
-*Official website: http://www.r4i-sdhc.com/
-*System files: http://filetrip.net/f22651-R4i-SDHC-Upgrade-1-4-1-Red-1-27b-English.html
-*DSi compatible: Yes
-*[http://shoptemp.com/products/R4i-SDHC-1.4.1-Red-Card-for-Nintendo-DS-DS-Lite-DSi-p-34.html R4i-SDHC Upgrade 1.4.1] on ShopTemp.com
+## R4i SDHC Upgrade 1.4.1
+- Official website: http://www.r4i-sdhc.com/
+- System files: http://filetrip.net/f22651-R4i-SDHC-Upgrade-1-4-1-Red-1-27b-English.html
+- DSi compatible: Yes
+- [http://shoptemp.com/products/R4i-SDHC-1.4.1-Red-Card-for-Nintendo-DS-DS-Lite-DSi-p-34.html R4i-SDHC Upgrade 1.4.1] on ShopTemp.com
 
-==R4i SDHC (r4i-sdhc.com)==
-*Official website: http://www.r4i-sdhc.com/
-*System files: http://filetrip.net/f21343-r4i-sdhc-1-22b-English.html/
+## R4i SDHC (r4i-sdhc.com)
+- Official website: http://www.r4i-sdhc.com/
+- System files: http://filetrip.net/f21343-r4i-sdhc-1-22b-English.html/
 
-==R4i SDHC (r4i-sdhc.com.au)==
-*Official website: http://www.r4i-sdhc.com.au/
-*System files: http://filetrip.net/f21693-R4iSDHC-com-au-2-12c-English.html
+## R4i SDHC (r4i-sdhc.com.au)
+- Official website: http://www.r4i-sdhc.com.au/
+- System files: http://filetrip.net/f21693-R4iSDHC-com-au-2-12c-English.html
 
-==R4i SDHC (r4isdhc.com)==
-*Official website: http://www.r4isdhc.com/
-*System files: http://filetrip.net/f21556-r4isdhc-R4i-2-0b-English.html
-*DSTTi clone (TBC)
+## R4i SDHC (r4isdhc.com)
+- Official website: http://www.r4isdhc.com/
+- System files: http://filetrip.net/f21556-r4isdhc-R4i-2-0b-English.html
+- DSTTi clone (TBC)
 
-==R4i Ultimate==
-*Official website: http://www.r4i-u.com
+## R4i Ultimate
+- Official website: http://www.r4i-u.com
 
-==R4i Yes==
-*Official website: http://www.r4i-yes.com
-*System files: http://filetrip.net/f21775-r4i-yes-1-80-English.html
+## R4i Yes
+- Official website: http://www.r4i-yes.com
+- System files: http://filetrip.net/f21775-r4i-yes-1-80-English.html
 
-==R4iDSXL==
-*Official website: http://www.r4idsxl.com/
-*System files: http://filetrip.net/f20897-r4idsxl-1-19b-English.html
+## R4iDSXL
+- Official website: http://www.r4idsxl.com/
+- System files: http://filetrip.net/f20897-r4idsxl-1-19b-English.html
 
-==R4ita==
-*Official website: http://www.r4ita.com/
-*System files: http://filetrip.net/f21703-r4ita-2-05-English.html
+## R4ita
+- Official website: http://www.r4ita.com/
+- System files: http://filetrip.net/f21703-r4ita-2-05-English.html
 
-==R4itt==
-*Official website: http://www.r4itt.net/
-*System files: http://filetrip.net/f21715-r4itt-2-01-English.html
+## R4itt
+- Official website: http://www.r4itt.net/
+- System files: http://filetrip.net/f21715-r4itt-2-01-English.html
 
-==R4X==
-*Official website: http://www.r4xds.com/
-*System files: http://filetrip.net/f21745-R4X-2-03-English.html
+## R4X
+- Official website: http://www.r4xds.com/
+- System files: http://filetrip.net/f21745-R4X-2-03-English.html
 
-==Super R4i==
-*Official website: http://www.super4i.com/
-*System files: http://filetrip.net/f21785-SuperR4i-1-20-English.html
+## Super R4i
+- Official website: http://www.super4i.com/
+- System files: http://filetrip.net/f21785-SuperR4i-1-20-English.html
 
-==TTi Upgrade==
-*Official website: http://www.nds-tti.com/
-*System files: http://filetrip.net/f8967-TTi-upgrade-revolution-firmware-1-19.html
+## TTi Upgrade
+- Official website: http://www.nds-tti.com/
+- System files: http://filetrip.net/f8967-TTi-upgrade-revolution-firmware-1-19.html
 
-==U2DS==
-*Official website: http://www.u2ds.com/
-*System files: http://filetrip.net/f19749-U2DS-1-7c-English.html
+## U2DS
+- Official website: http://www.u2ds.com/
+- System files: http://filetrip.net/f19749-U2DS-1-7c-English.html
 
-==Ultra Flashpass Ex==
-*Official website: http://www.ndsgba.net/
-*System files: http://filetrip.net/file.php?id=828
-
-[[Category:Nintendo DS]]
+## Ultra Flashpass Ex
+- Official website: http://www.ndsgba.net/
+- System files: http://filetrip.net/file.php?id=828
