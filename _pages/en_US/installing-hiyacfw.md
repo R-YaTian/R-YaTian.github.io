@@ -40,26 +40,24 @@ HiyaCFW is the world's first CFW with features that include:
 1. Insert your SD card into your PC
 2. Copy *the contents of* the HiyaCFW Helper `.zip` file to a folder on your PC
 3. Navigate to the extracted folder
-4. Open HiyaCFW Helper as admin
+4. Open HiyaCFW Helper with elevated permissions.
   - This can be done on Windows by right-clicking -> `Run as administrator`
-6. Click the `...` button in the `NAND file with No$GBA footer` box
-7. Navigate to your NAND backup, and click `Open`
+5. Click the `...` button in the `NAND file with No$GBA footer` box
+6. Navigate to your NAND backup, and click `Open`
   - If you'd like to install TWiLight Menu++ as a replacement for the Nintendo DSi Menu, tick the `Install TWiLight Menu++ on custom firmware` checkbox.
-8. Press `Start`
-9. In the new pop-up window, navigate to your SD card, and press `OK`
+7. Press `Start`
+8. In the new pop-up window, navigate to your SD card, and press `OK`
   - The process may take several minutes
-10. Close HiyaCFW Helper
-11. Unplug your SD card, and insert it in your DSi
-12. Power on your console
+10. Eject the SD card from the PC, inject it into your DSi and power on your DSi
   - Unlaunch's GUI should appear
-13. Navigate to `OPTIONS`, and press (A)
-14. Press (A) to configure a default software to boot in to when no button is held
-15. Navigate to `HIYACFW`, and press (A)
-16. Navigate to `SAVE & EXIT`, and press (A)
-17. Power off your console, and turn it back on
+11. Navigate to `OPTIONS`, and press (A)
+12. Press (A) to configure a default software to boot in to when no button is held
+13. Navigate to `HIYACFW`, and press (A)
+14. Navigate to `SAVE & EXIT`, and press (A)
+15. Power off your console, and turn it back on
   - HiyaCFW's settings screen should appear
-18. Change the settings to your liking, and press (START) to continue
-  - If you boot to "An error has occured" screen, it's most likely because your SD card is larger than 2GB; follow [Replacing System Menu with TWiLight Menu++](replacing-system-menu-with-twilight-menu++) to work around this issue
+16. Change the settings to your liking, and press (START) to continue
+  - If you boot to "An error has occured" screen, it's most likely because your SD card is larger than 2GB. [Replacing the System Menu with TWiLight Menu++](replacing-system-menu-with-twilight-menu++) will remove this issue.
 
 Your system will now boot from the SD card instead of the internal NAND.
 
