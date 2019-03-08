@@ -32,8 +32,10 @@ TWiLight Menu++ is an open-source & customizable alternative to the Nintendo DSi
 6. For DSi & 3DS users, copy the `_nds` folder and `boot.nds` file from `DSi&3DS - SD card users` folder to the root of your SD card
 7. For 3DS users, install the 3 cia files found inside the cia folder using FBI.
 
-For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.{: .notice--info}
-For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard loader.{: .notice--info}
+For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.
+{: .notice--info}
+For Flashcard users, TWiLight Menu++ can now be loaded using your flashcard loader.
+{: .notice--info}
 
 ## Automatic Installation (for 3DS users)
 
@@ -53,8 +55,7 @@ TWiLight Menu++ should now appear on your System Menu, as any other DSiWare woul
 
 ## (DSi) Replacing the System Menu
 
-You must have [Unlaunch](/guide/installing-unlaunch/) and [HiyaCFW](/guide/installing-hiyacfw/) installed before proceeding.
-{: .notice--info}
+You must have [Unlaunch](/guide/installing-unlaunch/) and [HiyaCFW](/guide/installing-hiyacfw/) installed before proceeding.{: .notice--info}
 
 1. Power on your DSi while holding **SELECT**
 2. If `Autoboot title` is not checked, navigate to it and press **A**
