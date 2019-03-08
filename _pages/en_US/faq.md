@@ -14,10 +14,10 @@ redirect_from:
 
 **A:** No, you will need a hardmod to install HiyaCFW. Follow Gadorach's [hardmodding guide](https://gbatemp.net/threads/dsi-downgrading-the-complete-guide.393682/){:target="_blank"} to hardmod your DSi. Previous soldering experience is required.
 
-<a name="faq_2gbsd" />**Q:** Can I use an SD card higher than 2GB with HiyaCFW yet?
+<a name="faq_2gbsd" />**Q:** Can I use an SD card higher than 2GB with HiyaCFW?
 {: .notice--info}
 
-**A:** Yes, using TWiLight Menu++. See the [Replacing System Menu with TWiLight Menu++](replacing-system-menu-with-twlmenu++) page for more information. Low-level "full" formatting your SD card with a tool like GUIFormat can help as well, but this will not get you around the DSi Menu's block limit, whereas TWiLight Menu++ does.
+**A:** Low-level "full" formatting your SD card with a tool like GUIFormat can help as well, but this will not get you around the DSi Menu's block limit. However, [replacing the System Menu with TWiLight Menu++](installing-twilight-menu++) completely removes the limit.
 
 <a name="faq_notwlmenupp" />**Q:** Why don't I see TWiLight Menu++?
 {: .notice--info}
@@ -28,3 +28,8 @@ redirect_from:
 {: .notice--info}
 
 **A:** Yes, Unlaunch v1.5 and higher's installer can uninstall Unlaunch. Keep in mind that this may result in an **irrecoverable brick** if you have installed any arbitrary DSiWare to your system NAND, or have otherwise messed with system files.
+
+<a name="faq_wifi" />**Q:** Is it possible to still use DS Wifi services, even though it shut down?
+{: .notice--info}
+
+**A:** By following [this guide](https://gist.github.com/jaames/5e1c0fcea96a3e47f888526d28531720), it is possible to still use Nintendo Wifi Services even though it has shut down back in 2014.
