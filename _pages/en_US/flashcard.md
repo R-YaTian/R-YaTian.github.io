@@ -39,9 +39,9 @@ The list should be sorted alphabetically.
 ## Acekard 2i
 - [Official website](http://www.acekard.com)
 - [System files](http://filetrip.net/f21926-AKAIO-1-8-1.html)
-- Firmware upgrade: http://filetrip.net/f18393-AceKard-2i-firmware-1-4-1.html
+- [Firmware upgrade](http://filetrip.net/f18393-AceKard-2i-firmware-1-4-1.html)
 - DSi compatible: Yes
-- [GBATemp Review](http://gbatemp.net/index.php?showtopic=122563)
+- [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
 - [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2i-Card-for-Nintendo-DS-DS-Lite-DSi-p-30.html)
 
 ## CycloDS Evolution
@@ -52,129 +52,111 @@ The list should be sorted alphabetically.
 - [Buy on ShopTemp.com](http://shoptemp.com/products/CycloDS-Evolution-Card-for-Nintendo-DS-DS-Lite-p-42.html)
 
 ## DS Fire Link
-- Official website: http://dsfirelink.com
-- System files: http://filetrip.net/g35129851-DS-Fire-Link.html
+- [Official website](http://dsfirelink.com)
+- [System files](http://filetrip.net/g35129851-DS-Fire-Link.html)
 - DSi compatible: No
 
 ## DS Link
-- Official website: http://www.ds-link.net/
-- System files: http://filetrip.net/f18533-DSLink-2-32-20090206.html
+- [Official website](http://www.ds-link.net/)
+- [System files](http://filetrip.net/f18533-DSLink-2-32-20090206.html)
 - DSi compatible: No
 
 ## DS-Xtreme
-- Official website: http://www.ds-x.com/ (discontinued)
-- Firmware upgrade: http://filetrip.net/f1984-DS-Xtreme-Firmware-1-1-3.html
+- [Official website](http://www.ds-x.com/) (discontinued)
+- [Firmware upgrade](http://filetrip.net/f1984-DS-Xtreme-Firmware-1-1-3.html)
 - DSi compatible: No
 
 ## DSLinker
-- Official website: http://www.dslinker.com/ (discontinued)
-- System files: http://filetrip.net/f18574-DSLinker-1-45.html
+- [Official website](http://www.dslinker.com/) (discontinued)
+- [System files](http://filetrip.net/f18574-DSLinker-1-45.html)
 - DSi compatible: No
 
 ## DSTT
-- Official website: http://www.ndstt.com/download.html
-- System files: http://filetrip.net/file.php?id=27582
+- [Official website](http://www.ndstt.com/download.html)
+- [System files](http://filetrip.net/file.php?id=27582)
 - DSi compatible: No
-- [http://gbatemp.net/index.php?showtopic=69748 Official GBAtemp Review]
-- [http://shoptemp.com/products/DSTT-Card-for-Nintendo-DS-DS-Lite-p-38.html DSTT] on ShopTemp.com
+- [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/DSTT-Card-for-Nintendo-DS-DS-Lite-p-38.html)
 - This card is no longer officially supported
 
 ## DSTTi
-- Official website: http://www.ndstt.com/download.html
-- System files: http://filetrip.net/file.php?id=27582
-- DSi 1.4.1 Firmware upgrade fix: http://gbatemp.net/t257710-stop-exclusivity-firmware-for-dstti-1-4-1
-- DSi compatible: Yes
-- [http://gbatemp.net/index.php?showtopic=69748Official GBAtemp Review]
-- [http://shoptemp.com/products/DSTTi-Card-for-Nintendo-DS-DS-Lite-DSi-p-37.html DSTTi] on ShopTemp.com
+- [Official website](http://www.ndstt.com/download.html)
+- [System files](http://filetrip.net/file.php?id=27582) ([DSi v1.4.1 fix](https://gbatemp.net/threads/stop-exclusivity-firmware-for-dstti-1-4-1.257710/))
+- [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/DSTTi-Card-for-Nintendo-DS-DS-Lite-DSi-p-37.html)
 - This card is no longer officially supported
 
 ## EDGE
-- Official website: http://www.edge-ds.cn/
-- System files: http://filetrip.net/f11790-EDGE-1-11.html
+- [Official website](http://www.edge-ds.cn/)
+- [System files](http://filetrip.net/f11790-EDGE-1-11.html)
 - DSi compatible: No
-- [http://gbatemp.net/t74099-edge-review Official GBAtemp review]
+- [GBATemp Review](https://gbatemp.net/threads/edge-review.74099/)
 - This card is no longer officially supported
 
 ## eWin2
-- Official website: http://www.ewin2.net/ (discontinued)
-- Firmware upgrade: http://filetrip.net/f18742-eWin2-firmware-1-96-8EN.html
+- [Official website](http://www.ewin2.net/) (discontinued)
+- [Firmware upgrade](http://filetrip.net/f18742-eWin2-firmware-1-96-8EN.html)
 - DSi compatible: No
 
 ## EZ-Flash IV
-- Official website: http://www.ezflash.cn/
-- PC software: http://filetrip.net/f4753-EZ4-Client-2009-04-03.html
+- [Official website](http://www.ezflash.cn/)
+- [PC software](http://filetrip.net/f4753-EZ4-Client-2009-04-03.html)
 - DSi compatible: No
-- [http://gbatemp.net/t32250-ez-flash-iv-review Official GBAtemp review]
-- [http://shoptemp.com/products/EZ-Flash-IV-Linker-for-Nintendo-GBA-DS-and-DS-Lite-p-191.html EZ-Flash IV] on ShopTemp.com
+- [GBATemp Review](https://gbatemp.net/threads/ez-flash-iv-review.32250/)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/EZ-Flash-IV-Linker-for-Nintendo-GBA-DS-and-DS-Lite-p-191.html)
 - This card is no longer officially supported
 
-## EZ-Flash V
-- Official website: http://www.ezflash.cn/
-- System files: http://filetrip.net/file.php?id=22255
-- DSi compatible: No
-
-## EZ-Flash V+
-- Official website: http://www.ezflash.cn/
-- System files: http://filetrip.net/file.php?id=22255
+## EZ-Flash V(+)
+- [Official website](http://www.ezflash.cn/)
+- [System files](http://filetrip.net/file.php?id=22255)
 - DSi compatible: No
 
 ## EZ-Flash Vi
-- Official website: http://www.ezflash.cn
-- System files: http://filetrip.net/f22256-EZ5i-Kernel-3-0-Open-Beta-3.html
-- Firmware upgrade: http://filetrip.net/f12017-EZ5i-firmware-update-101.html
+- [Official website](http://www.ezflash.cn)
+- [System files](http://filetrip.net/f22256-EZ5i-Kernel-3-0-Open-Beta-3.html)
+- [Firmware upgrade](http://filetrip.net/f12017-EZ5i-firmware-update-101.html)
 - DSi compatible: Yes
-- [http://gbatemp.net/t239947-ez5i-long-term-review Official GBAtemp review]
-- [http://shoptemp.com/products/EZ-Flash-Vi-Deluxe-Edition-for-Nintendo-DS-DS-Lite-DSi-p-39.html EZ-Flash Vi] on ShopTemp.com
+- [GBATemp Review](http://gbatemp.net/t239947-ez5i-long-term-review)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/EZ-Flash-Vi-Deluxe-Edition-for-Nintendo-DS-DS-Lite-DSi-p-39.html)
 
 ## G6 DS Real
-- Official website: http://www.g6flash.com/
-- System files: http://filetrip.net/f21805-M3i-Zero-M3G6-DS-Real-4-8f.html
+- [Official website](http://www.g6flash.com/)
+- [System files](http://filetrip.net/f21805-M3i-Zero-M3G6-DS-Real-4-8f.html)
 - DSi compatible: No
 
-## G6 Flash
-- Official website: http://www.g6flash.com/
-- Kernel: http://filetrip.net/f18355-G6-Kernel-4-8-English.html
-- PC Software: http://filetrip.net/f2298-G6-Manager-5-1-Full.html
-- DSi compatible: No
-
-## G6 Lite
-- Official website: http://www.g6flash.com/
-- Kernel: http://filetrip.net/f18355-G6-Kernel-4-8-English.html
-- PC Software: http://filetrip.net/f2298-G6-Manager-5-1-Full.html
+## G6 Flash/Lite
+- [Official website](http://www.g6flash.com/)
+- [Kernel](http://filetrip.net/f18355-G6-Kernel-4-8-English.html)
+- [PC Software](http://filetrip.net/f2298-G6-Manager-5-1-Full.html)
 - DSi compatible: No
 
 ## iEDGE
-- Official website: http://www.edge-ds.cn/
-- System files: http://filetrip.net/f11790-EDGE-1-11.html
+- [Official website](http://www.edge-ds.cn/)
+- [System files](http://filetrip.net/f11790-EDGE-1-11.html)
 - DSi compatible: up to DSi firmware 1.4
-- [http://gbatemp.net/t74099-edge-review Official GBAtemp review]
-- [http://shoptemp.com/products/iEDGE-Card-for-Nintendo-DS-DS-Lite-DSi-p-41.html iEDGE] on ShopTemp.com
+- [GBATemp Review](https://gbatemp.net/threads/edge-review.74099/)
+- [Buy on ShopTemp.com](http://shoptemp.com/products/iEDGE-Card-for-Nintendo-DS-DS-Lite-DSi-p-41.html)
 - This card is no longer officially supported
 
 ## iPlayer
-- Official website: http://www.dsiplayer.com/
-- System files: http://filetrip.net/f18846-iPlayer-OS-1-3-FW.html
-- Firmware upgrade: http://filetrip.net/f18845-iPlayer-firmware-1-41.html
+- [Official website](http://www.dsiplayer.com/)
+- [System files](http://filetrip.net/f18846-iPlayer-OS-1-3-FW.html)
+- [Firmware upgrade](http://filetrip.net/f18845-iPlayer-firmware-1-41.html)
 - DSi compatible: Yes
 
 ## iTouch2
-- Official website: http://www.itouchds.com/
-- System files: http://filetrip.net/f18856-iTouch-loader-3-8e.html
+- [Official website](http://www.itouchds.com/)
+- [System files](http://filetrip.net/f18856-iTouch-loader-3-8e.html)
 - DSi compatible: Yes
 
 ## iTouchDS
-- Official website: http://www.itouchds.com/
-- System files: http://filetrip.net/f18856-iTouch-loader-3-8e.html
+- [Official website](http://www.itouchds.com/)
+- [System files](http://filetrip.net/f18856-iTouch-loader-3-8e.html)
 - DSi compatible: No
 
-## M3 DS Real
-- Official website: http://m3adapter.com
-- System files: http://filetrip.net/g25123610-M3-Sakura-TouchPod-for-M3-Real-.html
-- DSi compatible: No
-
-## M3 Perfect
-- Official website: http://m3adapter.com
-- System files: http://filetrip.net/g25123610-M3-Sakura-TouchPod-for-M3-Real-.html
+## M3 DS Real/M3 Perfect
+- [Official website](http://m3adapter.com)
+- [System files](http://filetrip.net/g25123610-M3-Sakura-TouchPod-for-M3-Real-.html)
 - DSi compatible: No
 
 
