@@ -96,7 +96,7 @@ Once finished, copy xmenu.dat onto the card.
 - [Buy on r43ds.org](https://www.r43ds.org/products/DSTT-Card.html)
 - This card is no longer officially supported
 
-## EDGE
+## EDGE/iEDGE
 - [Official website](http://www.edge-ds.cn/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24706-iEDGE-OS-2-1.3.zip?raw=true)
 - DSi compatible: No
@@ -129,92 +129,85 @@ Once finished, copy xmenu.dat onto the card.
 
 ## G6 DS Real
 - [Official website](http://www.g6flash.com/) (discontinued)
-- [System files](http://filetrip.net/f21805-M3i-Zero-M3G6-DS-Real-4-8f.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23808-G6_M3DS-R_M74.zip?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/g6ds-real-review.49102/)
 - DSi compatible: No
 
 ## G6 Flash/Lite
 - [Official website](http://www.g6flash.com/) (discontinued)
-- [Kernel](http://filetrip.net/f18355-G6-Kernel-4-8-English.html)
+- [Kernel](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18355-G6_Kernel_v4.8_English.zip?raw=true)
 - [PC Software](http://filetrip.net/f2298-G6-Manager-5-1-Full.html)
+- [GBATemp Review (Third-Generation)](https://gbatemp.net/threads/g6-flash-3rd-generation-review.28750/)
+- [ds-lite.com Review](http://ds-lite.com/flash/g6-flash-3.htm)
 - DSi compatible: No
 
-## iEDGE
-- [Official website](http://www.edge-ds.cn/)
-- [System files](http://filetrip.net/f11790-EDGE-1-11.html)
-- DSi compatible: up to DSi firmware 1.4
-- [GBATemp Review](https://gbatemp.net/threads/edge-review.74099/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/iEDGE-Card-for-Nintendo-DS-DS-Lite-DSi-p-41.html)
-- This card is no longer officially supported
-
 ## iPlayer
-- [Official website](http://www.dsiplayer.com/)
-- [System files](http://filetrip.net/f18846-iPlayer-OS-1-3-FW.html)
-- [Firmware upgrade](http://filetrip.net/f18845-iPlayer-firmware-1-41.html)
+- [Official website](http://www.dsiplayer.com/) (discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25071-eng_iPlayer_OS_20110513.zip?raw=true)
 - DSi compatible: Yes
 
 ## iTouch2
-- [Official website](http://www.itouchds.com/)
-- [System files](http://filetrip.net/f18856-iTouch-loader-3-8e.html)
+- [Official website](http://www.itouchds.com/) ([Archive](https://web.archive.org/web/20101007203705/http://www.itouchds.com/))
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18856-iTouch_loader_v3.8e.zip?raw=true)
 - DSi compatible: Yes
+- [iTouch2 vs Supercard DSONEi GBATemp Comparison](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
 
 ## iTouchDS
-- [Official website](http://www.itouchds.com/)
-- [System files](http://filetrip.net/f18856-iTouch-loader-3-8e.html)
+- [Official website](http://www.itouchds.com/) ([Archive](https://web.archive.org/web/20101007203705/http://www.itouchds.com/))
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18856-iTouch_loader_v3.8e.zip?raw=true)
 - DSi compatible: No
 
 ## M3 DS Real/M3 Perfect
-- [Official website](http://m3adapter.com)
-- [System files](http://filetrip.net/g25123610-M3-Sakura-TouchPod-for-M3-Real-.html)
+- [Official website](http://m3adapter.com) (discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/4374-M3_Sakura_1.49X_3rd_TouchPod_4.9.rar?raw=true)
 - DSi compatible: No
-
-
+- [GBATemp Review](https://gbatemp.net/threads/m3ds-real-review.68277/)
+- [Buy on r43ds.org](https://www.r43ds.org/products/M3-Real-Card-Rumble-Pack-Bundle.html)
+- [Buy on r4ds-uk.com](http://www.r4ds-uk.com/m3-real-ds-card-with-rumble-pack-4gb-kingston-micro-sd-card_p474.html)
+- [Buy on digimartz.com](http://www.digimartz.com/m3-ds-real-perfect-bundle-pack_p212.html)
 
 ## M3i Zero
-- Official website: http://m3adapter.com
-- System files: http://filetrip.net/g25123610-M3-Sakura-TouchPod-for-M3-Real-.html
-- Firmware upgrade: http://en.hackconsoles.com/m3i-zero-tutorial-for-dsi-1-4-5-and-3ds-4-5-0-10.html
+- [Official website](http://m3adapter.com) (discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/4374-M3_Sakura_1.49X_3rd_TouchPod_4.9.rar?raw=true)
 - DSi compatible: Yes
-- [http://gbatemp.net/t182018-m3i-zero-review Official GBAtemp review]
-- [http://shoptemp.com/products/M3i-Zero-Sakura-Card-for-Nintendo-DS-DS-Lite-DSi-p-32.html M3i Zero on ShopTemp.com]
+- [GBATemp Review](https://gbatemp.net/threads/m3i-zero-review.182018/)
+- [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159)
+- This card is no longer officially supported
 
 ## MK5
-- Official website: http://www.neoflash.com
-- System files: http://filetrip.net/f3515-MK5-xmenu-dat-2-56.html
+- [Official website](http://www.neoflash.com)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B3889%5Dxmenu_2.56.zip?raw=true)
 - DSi compatible: No
 
 ## N-Card
-- System files: http://filetrip.net/f18979-NCard-1-45.html
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
 - DSi compatible: No
 
 ## R4 DS
-- Official website: http://www.r4ds.com/
-- System files: http://filetrip.net/f22634-Wood-R4-1-16.html
+- [Official website](http://www.r4ds.com/)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32256-Wood_R4_v1.62.7z?raw=true)
 - DSi compatible: No
-- [http://gbatemp.net/t41279-r4-ds-review Official GBAtemp review]
-- [http://shoptemp.com/products/R4-DS-Revolution-Card-Wood-Compatible-for-NDS-DS-Lite-p-29.html R4 DS] on ShopTemp.com
+- [GBAtemp review](https://gbatemp.net/threads/r4-ds-review.41279/)
 - This card is no longer officially supported
 
-## SuperCard DSONE
-- Official website: http://eng.supercard.sc/
-- System files: http://filetrip.net/f19099-Supercard-DSONE-EOS-1-0SP5-English.html
-- DSi compatible: No
-
-## SuperCard DSONE v3
-- Official website: http://eng.supercard.sc/
-- System files: http://filetrip.net/f19097-Supercard-DSONE-SDHC-EOS-1-0SP5-English.html
+## SuperCard DSONE (v3)
+- [Official website](http://eng.supercard.sc/)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
+- [Supercard DSONE (v3) vs iTouch2 GBATemp Comparison](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
+- [GBATemp Review](https://gbatemp.net/threads/supercard-ds-one-v3.88932/)
 - DSi compatible: No
 
 ## SuperCard DSONEi
-- Official website: http://eng.supercard.sc/
-- System files: http://filetrip.net/f19095-Supercard-DSONEi-EOS-1-0SP5-English.html
-- Firmware upgrade: http://filetrip.net/f19101-supercard-dsonei-firmware-upgrade-1-1-English.html
+- [Official website](http://eng.supercard.sc/manual/dsone/evolution/)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
+- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19101-supercard_dsonei_firmware_upgrade_v1.1_English.zip?raw=true)
 - DSi compatible: Yes
-- Fix for DSi 1.4.1: http://filetrip.net/f13193-Supercard-DSOnei-fix-for-DSi-1-4-1-1-0.html
-- [http://gbatemp.net/t165422-itouch2-vs-supercard-dsonei-review Official GBAtemp review]
-- [http://shoptemp.com/products/Supercard-DSONEi-Card-for-Nintendo-DS-DS-Lite-DSi-p-36.html Supercard DSONEi] on ShopTemp.com
+- [Fix for DSi 1.4.1](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/13193-updateen_for_1.41.zip?raw=true)
+- [Supercard DSONEi vs iTouch2 GBATemp Comparison](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
+- [GBATemp Review](https://gbatemp.net/threads/supercard-ds-one-v3.88932/)
 
 ## SuperCard DSTWO
-- Official website: http://eng.supercard.sc/manual/dstwo/
+- [Official website](http://eng.supercard.sc/manual/dstwo/)
 - System files: http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html
 - Official plugins: [http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html Media Player], [http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html GBA Emulator], [http://filetrip.net/g35131424-CATSFC.html SNES Emulator], [http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html Document Viewer]
 - DSi compatible: Yes
@@ -329,7 +322,6 @@ Once finished, copy xmenu.dat onto the card.
 - Official website: http://www.r4i-sdhc.com/
 - System files: http://filetrip.net/f22650-R4-SDHC-Upgrade-%28r4i-sdhc-com%29-1-27b-English.html
 - DSi compatible: No
-- [http://shoptemp.com/products/R4-SDHC-Card-for-Nintendo-DS-DS-Lite-p-35.html R4-SDHC Upgrade] on ShopTemp.com
 
 ## R4 Team
 
@@ -396,7 +388,6 @@ Once finished, copy xmenu.dat onto the card.
 - System files: http://filetrip.net/f22607-R4ids-Gold-Official-Firmware-V1-40.html
 - Unofficial system files: http://filetrip.net/f21887-Wood-R4-for-R4i-Gold-%28R4iDS%29-1-14.html
 - DSi compatible: Yes
-- [http://shoptemp.com/products/R4i-Gold-Card-Wood-Compatible-for-NDS-DS-Lite-DSi-p-33.html R4i Gold] on ShopTemp
 - Said to be based on Acekard 2i OEM (TBC)
 
 ## R4i Gold (r4i-gold.com)
@@ -469,7 +460,6 @@ Official Site: [http://www.r4i-redant.com/indexe.html]
 - Official website: http://www.r4i-sdhc.com/
 - System files: http://filetrip.net/f22651-R4i-SDHC-Upgrade-1-4-1-Red-1-27b-English.html
 - DSi compatible: Yes
-- [http://shoptemp.com/products/R4i-SDHC-1.4.1-Red-Card-for-Nintendo-DS-DS-Lite-DSi-p-34.html R4i-SDHC Upgrade 1.4.1] on ShopTemp.com
 
 ## R4i SDHC (r4i-sdhc.com)
 - Official website: http://www.r4i-sdhc.com/
