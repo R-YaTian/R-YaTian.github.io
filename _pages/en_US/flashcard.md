@@ -47,7 +47,8 @@ The list should be sorted alphabetically.
 - [Official website](http://www.acekard.com) (Discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
-- DSi compatible: Yes
+- DSi compatible: Up to (and including) v1.4.4
+- 3DS compatible: Up to (and including) v4.3.0
 - [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
 
 ### Firmware Upgrade instructions
@@ -165,19 +166,25 @@ Once finished, copy xmenu.dat onto the card.
 ## M3 DS Real/M3 Perfect
 - [Official website](http://m3adapter.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/4374-M3_Sakura_1.49X_3rd_TouchPod_4.9.rar?raw=true)
-- DSi compatible: No
+- DSi/3DS compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/m3ds-real-review.68277/)
 - [Buy on r43ds.org](https://www.r43ds.org/products/M3-Real-Card-Rumble-Pack-Bundle.html)
 - [Buy on r4ds-uk.com](http://www.r4ds-uk.com/m3-real-ds-card-with-rumble-pack-4gb-kingston-micro-sd-card_p474.html)
 - [Buy on digimartz.com](http://www.digimartz.com/m3-ds-real-perfect-bundle-pack_p212.html)
+- This card is no longer officially supported
+
+**The [Codemasters Project](http://www.ds-scene.net/?s=viewtopic&nid=11056) (CMP) cheat file doesn't support the M3 Real / M3i Zero, so you won't be able to use the latest cheat codes unless you know how to convert the CMP file into the M3 Real-compatible cheat.db format.**
 
 ## M3i Zero
 - [Official website](http://m3adapter.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/4374-M3_Sakura_1.49X_3rd_TouchPod_4.9.rar?raw=true)
 - DSi compatible: Yes
+- 3DS compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/m3i-zero-review.182018/)
 - [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159)
 - This card is no longer officially supported
+
+**The [Codemasters Project](http://www.ds-scene.net/?s=viewtopic&nid=11056) (CMP) cheat file doesn't support the M3 Real / M3i Zero, so you won't be able to use the latest cheat codes unless you know how to convert the CMP file into the M3 Real-compatible cheat.db format.**
 
 ## MK5
 - [Official website](http://www.neoflash.com)
@@ -217,6 +224,14 @@ Once finished, copy xmenu.dat onto the card.
 - Official plugins: [Media Player](http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html), [GBA Emulator](http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html), [SNES Emulator](http://filetrip.net/g35131424-CATSFC.html), [Document Viewer](http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.232281/)
+- [DSDatabase Review](http://dsdatabase.org/content.php/58-Supercard-DSTwo-Review)
+- [CodeDonut Review](https://www.codedonut.com/ds-hacking/supercard-dstwo-review/)
+- [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo.html) (out of stock)
+
+## SuperCard DSTWO +
+- [Official Website](http://eng.supercard.sc/index.html)
+- [GBATemp Review](https://gbatemp.net/review/dstwo.412/)
+- [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo-Plus.html)
 
 # Clones & Fakes
 - "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
@@ -232,6 +247,7 @@ Once finished, copy xmenu.dat onto the card.
 ## DSTT Fakes
 ## E7
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19469-E7_v2.01_English.zip?raw=true)
+- Clone of the R4
 
 ## EDGEi
 ## Games'N'Music
@@ -250,6 +266,8 @@ Once finished, copy xmenu.dat onto the card.
 ## iSmart Premium
 - [Official website](http://ismartds.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24622-system_v105.zip?raw=true)
+- [DS-Scene Review](http://www.ds-scene.net/?s=viewtopic&id=3346)
+- [Buy on Digimartz.com](http://www.digimartz.com/ismart-ds-ismart-premium-for-nintendo-ds-dsi-dsi-ll_p704.html)
 - 3DS Support: Yes
 
 ## M3 Adaptador
@@ -271,6 +289,7 @@ Once finished, copy xmenu.dat onto the card.
 ## MARS
 - [Official Website](http://www.ndsmars.com/) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
+- Clone of the R4DS
 
 ## Max Media Player
 - [Official website](http://us.codejunkies.com/mpds/index.htm)
@@ -280,6 +299,7 @@ Once finished, copy xmenu.dat onto the card.
 ## N5
 - [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
+- Clone of the R4
 
 ## N5i
 - [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
@@ -288,6 +308,7 @@ Once finished, copy xmenu.dat onto the card.
 ## NCard II
 
 ## ND1
+- Clone of the R4
 
 ## NinjaDS
 
@@ -495,6 +516,7 @@ Once finished, copy xmenu.dat onto the card.
 ## U2DS
 - [Official website](http://www.u2ds.com/) (discontinued)
 - System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19749-U2DS_v1.7c_English.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19754-U2DS_v1.7c_Traditional_Chinese.zip?raw=true)]
+- Clone of the R4DS
 
 ## Ultra Flashpass Ex
 - [Official website](http://www.ndsgba.net/) (discontinued)
