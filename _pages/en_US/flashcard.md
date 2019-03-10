@@ -34,26 +34,36 @@ The list should be sorted alphabetically.
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-1-review.224477/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2.1-Card-for-Nintendo-DS-DS-Lite-p-31.html)
+- [DS Database Review](http://dsdatabase.org/showthread.php/408-AceKard-2-1)
+- [Buy from r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
 
 ## Acekard 2i
 - [Official website](http://www.acekard.com) (Discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
-- [Firmware upgrade](http://filetrip.net/f18393-AceKard-2i-firmware-1-4-1.html)
+- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
 - [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2i-Card-for-Nintendo-DS-DS-Lite-DSi-p-30.html)
 
+### Firmware Upgrade instructions
+
+If you use a DS Lite, copy and run `dsl.nds`.     
+If you use a DSi under 1.4, copy and run `dsi.nds`.
+
 ## CycloDS Evolution
-- [Official website](http://www.cyclopsds.com)
-- System files: \[[Stable](http://filetrip.net/g35130821-CycloDS-Evolution-Firmware.html)/[Beta](http://filetrip.net/file.php?id=10254)]
+- [Official website](http://www.cyclopsds.com) (discontinued)
+- [Team Cyclops Forums](http://www.teamcyclops.com/forum) (discontinued)
+- System files: \[[Stable](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25158-evo-firmware-2.3.zip?raw=true)/[Beta](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24709-evo-firmware-BETA-B.7.zip?raw=true)]
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/cyclods-evolution-review.53450/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/CycloDS-Evolution-Card-for-Nintendo-DS-DS-Lite-p-42.html)
+
+### Update instructions
+
+Just place the file `update.evo` on the root directory of your MicroSD card. The rest of the process will be automatic.
 
 ## DS Fire Link
 - [Official website](http://dsfirelink.com)
-- [System files](http://filetrip.net/g35129851-DS-Fire-Link.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18526-DS_Fire_Link_v1.45_v2.52.rar?raw=true)
 - DSi compatible: No
 
 ### Upgrade instructions
@@ -65,74 +75,65 @@ Once finished, copy xmenu.dat onto the card.
 
 ## DS Link
 - [Official website](http://www.ds-link.net/)
-- [System files](http://filetrip.net/f18533-DSLink-2-32-20090206.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18533-DSLink_v2.32_20090206.zip?raw=true)
 - DSi compatible: No
 
 ## DS-Xtreme
 - [Official website](http://www.ds-x.com/) (discontinued)
-- [Firmware upgrade](http://filetrip.net/f1984-DS-Xtreme-Firmware-1-1-3.html)
+- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
 - DSi compatible: No
 
 ## DSLinker
 - [Official website](http://www.dslinker.com/) (discontinued)
-- [System files](http://filetrip.net/f18574-DSLinker-1-45.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
 - DSi compatible: No
 
-## DSTT
-- [Official website](http://www.ndstt.com/download.html)
-- [System files](http://filetrip.net/file.php?id=27582)
+## DSTT/DSTTi
+- [Official website](http://www.ndstt.net/)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/DSTT-Card-for-Nintendo-DS-DS-Lite-p-38.html)
-- This card is no longer officially supported
-
-## DSTTi
-- [Official website](http://www.ndstt.com/download.html)
-- [System files](http://filetrip.net/file.php?id=27582) ([DSi v1.4.1 fix](https://gbatemp.net/threads/stop-exclusivity-firmware-for-dstti-1-4-1.257710/))
-- [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/DSTTi-Card-for-Nintendo-DS-DS-Lite-DSi-p-37.html)
+- [Buy on nds-card.com](https://nds-card.com/ProShow.asp?ProID=157)
+- [Buy on r43ds.org](https://www.r43ds.org/products/DSTT-Card.html)
 - This card is no longer officially supported
 
 ## EDGE
 - [Official website](http://www.edge-ds.cn/)
-- [System files](http://filetrip.net/f11790-EDGE-1-11.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24706-iEDGE-OS-2-1.3.zip?raw=true)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/edge-review.74099/)
 - This card is no longer officially supported
 
 ## eWin2
 - [Official website](http://www.ewin2.net/) (discontinued)
-- [Firmware upgrade](http://filetrip.net/f18742-eWin2-firmware-1-96-8EN.html)
+- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18742-eWin2_firmware_v1.96.8EN.rar?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/ewin2-review.37794/)
 - DSi compatible: No
 
 ## EZ-Flash IV
 - [Official website](http://www.ezflash.cn/)
-- [PC software](http://filetrip.net/f4753-EZ4-Client-2009-04-03.html)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/ez-flash-iv-review.32250/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/EZ-Flash-IV-Linker-for-Nintendo-GBA-DS-and-DS-Lite-p-191.html)
 - This card is no longer officially supported
 
 ## EZ-Flash V(+)
 - [Official website](http://www.ezflash.cn/)
-- [System files](http://filetrip.net/file.php?id=22255)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23783-2.0RC20.zip?raw=true)
 - DSi compatible: No
 
 ## EZ-Flash Vi
 - [Official website](http://www.ezflash.cn)
-- [System files](http://filetrip.net/f22256-EZ5i-Kernel-3-0-Open-Beta-3.html)
-- [Firmware upgrade](http://filetrip.net/f12017-EZ5i-firmware-update-101.html)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/28259-3.0%20OB8.rar?raw=true)
+- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/26992-V108a.rar?raw=true)
 - DSi compatible: Yes
-- [GBATemp Review](http://gbatemp.net/t239947-ez5i-long-term-review)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/EZ-Flash-Vi-Deluxe-Edition-for-Nintendo-DS-DS-Lite-DSi-p-39.html)
+- [GBATemp Review](https://gbatemp.net/threads/ez5i-long-term-review.239947/)
 
 ## G6 DS Real
-- [Official website](http://www.g6flash.com/)
+- [Official website](http://www.g6flash.com/) (discontinued)
 - [System files](http://filetrip.net/f21805-M3i-Zero-M3G6-DS-Real-4-8f.html)
 - DSi compatible: No
 
 ## G6 Flash/Lite
-- [Official website](http://www.g6flash.com/)
+- [Official website](http://www.g6flash.com/) (discontinued)
 - [Kernel](http://filetrip.net/f18355-G6-Kernel-4-8-English.html)
 - [PC Software](http://filetrip.net/f2298-G6-Manager-5-1-Full.html)
 - DSi compatible: No
