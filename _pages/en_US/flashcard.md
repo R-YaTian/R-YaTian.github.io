@@ -5,40 +5,40 @@ The list should be sorted alphabetically.
 
 # Original Flashcards
 ## Acekard
-- [Official website](http://acekard.com)
-- [System files](http://filetrip.net/f18449-AceKard-Manager-1-03-Menu.html)
+- [Official website](http://acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-review.39686/)
 - This card is no longer officially supported
 
 ## Acekard+
-- [Official website](http://www.acekard.com)
-- [System files](http://filetrip.net/f18443-AceKard-Plus-System-English-1-15.html)
+- [Official website](http://www.acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18443-AceKard_Plus_System_English_v1.15.rar?raw=true)
 - DSi compatible: No
 - This card is no longer officially supported
 
 ## Acekard RPG
-- [Official website](http://www.acekard.com)
-- [System files](http://filetrip.net/f22633-WoodRPG-1-16.html)
+- [Official website](http://www.acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32258-Wood_RPG_v1.62.7z?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-r-p-g-review.68305/)
 
 ## Acekard 2
-- [Official website](http://www.acekard.com)
-- [System files](http://filetrip.net/f12379-Acekard-2-Official-4-23.html)
+- [Official website](http://www.acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/12379-ak2_423_20100721_release.zip?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-review.79368/)
 
 ## Acekard 2.1
-- [Official website](http://www.acekard.com)
-- [System files](http://filetrip.net/f21926-AKAIO-1-8-1.html)
+- [Official website](http://www.acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-1-review.224477/)
 - [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2.1-Card-for-Nintendo-DS-DS-Lite-p-31.html)
 
 ## Acekard 2i
-- [Official website](http://www.acekard.com)
-- [System files](http://filetrip.net/f21926-AKAIO-1-8-1.html)
+- [Official website](http://www.acekard.com) (Discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - [Firmware upgrade](http://filetrip.net/f18393-AceKard-2i-firmware-1-4-1.html)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
@@ -46,7 +46,7 @@ The list should be sorted alphabetically.
 
 ## CycloDS Evolution
 - [Official website](http://www.cyclopsds.com)
-- System files: \[[Stable](http://filetrip.net/g35130821-CycloDS-Evolution-Firmware.html)/[Beta](http://filetrip.net/file.php?id=10254)/[GUI Beta](http://filetrip.net/file.php?id=12193)]
+- System files: \[[Stable](http://filetrip.net/g35130821-CycloDS-Evolution-Firmware.html)/[Beta](http://filetrip.net/file.php?id=10254)]
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/cyclods-evolution-review.53450/)
 - [Buy on ShopTemp.com](http://shoptemp.com/products/CycloDS-Evolution-Card-for-Nintendo-DS-DS-Lite-p-42.html)
@@ -55,6 +55,13 @@ The list should be sorted alphabetically.
 - [Official website](http://dsfirelink.com)
 - [System files](http://filetrip.net/g35129851-DS-Fire-Link.html)
 - DSi compatible: No
+
+### Upgrade instructions
+
+1. Copy the .nds file onto your card and run it.
+- Once this process reaches 100%, shutdown your DS.
+2. Turn it back on and hold Start+Select to bring up the format menu. Select Quick Format and let it complete.
+Once finished, copy xmenu.dat onto the card.
 
 ## DS Link
 - [Official website](http://www.ds-link.net/)
