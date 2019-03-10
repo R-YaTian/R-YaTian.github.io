@@ -43,7 +43,6 @@ The list should be sorted alphabetically.
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
-- [Buy on ShopTemp.com](http://shoptemp.com/products/Acekard-2i-Card-for-Nintendo-DS-DS-Lite-DSi-p-30.html)
 
 ### Firmware Upgrade instructions
 
@@ -208,11 +207,10 @@ Once finished, copy xmenu.dat onto the card.
 
 ## SuperCard DSTWO
 - [Official website](http://eng.supercard.sc/manual/dstwo/)
-- System files: http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html
-- Official plugins: [http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html Media Player], [http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html GBA Emulator], [http://filetrip.net/g35131424-CATSFC.html SNES Emulator], [http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html Document Viewer]
+- [System files](http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html)
+- Official plugins: [Media Player](http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html), [GBA Emulator](http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html), [SNES Emulator](http://filetrip.net/g35131424-CATSFC.html), [Document Viewer](http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html)
 - DSi compatible: Yes
-- [http://gbatemp.net/t232281-supercard-dstwo-review Official GBAtemp Review]
-- [http://shoptemp.net/products/Supercard-DSTWO.html Supercard DSTWO on ShopTemp.com]
+- [GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.232281/)
 
 # Clones & Fakes
 - "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
@@ -391,6 +389,7 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4i Gold (r4i-gold.com)
 - [Official website](http://www.r4i-gold.com/) (discontinued)
+- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Japanese.rar?raw=true)/[Portugese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Portugese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Traditional_Chinese.rar?raw=true)]
 - DSTTi Clone (use YSMenu)
 
 ## R4i Gold (r4i-gold.eu)
@@ -408,7 +407,7 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4i (ndsill.net)
 - [Official Website](http://www.ndsill.net) (discontinued)
-- [English 1.45 firmware](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)
+- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
 
 ## R4i NDSiXL 3D
 
@@ -470,7 +469,7 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4ita
 - [Official website](http://www.r4ita.com/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21703-r4ita_v2.05_English.rar?raw=true)
+- System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21703-r4ita_v2.05_English.rar?raw=true)
 
 ## R4itt
 - [Official website](http://www.r4itt.net/) (discontinued)
