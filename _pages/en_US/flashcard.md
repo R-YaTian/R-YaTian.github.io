@@ -1,3 +1,9 @@
+---
+title: Flashcard Firmwares
+---
+
+{% include toc title="List of Firmwares" %}
+
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcart.
 We prioritize updated operating systems over the official and unsupported ones. For example, we would rather direct users to Wood R4 rather than the original R4 system files which haven't been updated for years.
 
