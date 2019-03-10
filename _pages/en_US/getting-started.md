@@ -19,8 +19,8 @@ If you are using a Nintendo 3DS, you'll need to [install 3DS CFW](https://3ds.ha
 
 In order to setup TWL_FIRM/DS(i) hacks on your console, you'll first need to take a look at what you have:
 
-If you are using a flashcard, you'll need to go to the flashcard setup page.      
+If you are using a flashcard, you'll need to go to the [flashcard setup page](flashcard).      
 If you want to install CFW on a Nintendo DSi, you'll first need to install [Unlaunch](installing-unlaunch).       
-If you want to install TWL_FIRM hacks on a Nintendo 3DS, you'll need to install hbmenu in order to run Nintendo DSi Homebrew.
+If you want to install TWL_FIRM hacks on a Nintendo 3DS, you'll need to install hbmenu in order to run Nintendo DSi Homebrew (such as GameYob).
 
 If you are a Nintendo 3DS or a Nintendo DSi user, you can setup [TWiLight Menu++](installing-twilight-menu++) to launch ROMs from your SD card using nds-bootstrap.
