@@ -73,21 +73,10 @@ If you use a DSi under 1.4, copy and run `dsi.nds`.
 
 Just place the file `update.evo` on the root directory of your MicroSD card. The rest of the process will be automatic.
 
-## DS Fire Link
-- [Official website](http://dsfirelink.com)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18526-DS_Fire_Link_v1.45_v2.52.rar?raw=true)
-- DSi compatible: No
-
-### Upgrade instructions
-
-1. Copy the .nds file onto your card and run it.
-- Once this process reaches 100%, shutdown your DS.
-2. Turn it back on and hold Start+Select to bring up the format menu. Select Quick Format and let it complete.
-Once finished, copy xmenu.dat onto the card.
-
 ## DS Link
 - [Official website](http://www.ds-link.net/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18533-DSLink_v2.32_20090206.zip?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/dslink-review.37209/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/566-DSLink)
 - DSi compatible: No
 
@@ -96,13 +85,7 @@ Once finished, copy xmenu.dat onto the card.
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
 - DSi compatible: No
 - [DSFlash Review](http://dsflash.com/ds-xtreme.htm)
-
-## DSLinker
-- [Official website](http://www.dslinker.com/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
-- DSi compatible: No
-- [GBATemp Review](https://gbatemp.net/threads/ds-linker-16gbit-review.49614/)
-- [DSDatabase review](http://dsdatabase.org/showthread.php/562-DS-Linker)
+- [GBATemp Review](https://gbatemp.net/threads/ds-xtreme-review.38174/)
 
 ## DSTT/DSTTi
 - [Official website](http://www.ndstt.net/)
@@ -131,11 +114,14 @@ Once finished, copy xmenu.dat onto the card.
 - [Official website](http://www.ezflash.cn/)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/ez-flash-iv-review.32250/)
+- [HackInformer Review](https://hackinformer.com/2017/03/03/review-ez-flash-iv-gba-gbasp-nds/)
+- [MaxConsole Review](https://www.maxconsole.com/threads/ez-flash-iv-review.25571/)
 - This card is no longer officially supported
 
 ## EZ-Flash V(+)
 - [Official website](http://www.ezflash.cn/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23783-2.0RC20.zip?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/ez-flash-v-review.42399/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/564-EZ-Flash-V)
 - DSi compatible: No
 
@@ -145,6 +131,7 @@ Once finished, copy xmenu.dat onto the card.
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/26992-V108a.rar?raw=true)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/ez5i-long-term-review.239947/)
+- [Buy on r4ds-ds.com](http://www.r4ds-ds.com/products/EZ-Flash-Vi-Simple-Edition-for-DS-DS-Lite-and-DSi-p-241.html)
 
 ## G6 DS Real
 - [Official website](http://www.g6flash.com/) (discontinued)
@@ -208,12 +195,6 @@ Once finished, copy xmenu.dat onto the card.
 
 **The [Codemasters Project](http://www.ds-scene.net/?s=viewtopic&nid=11056) (CMP) cheat file doesn't support the M3 Real / M3i Zero, so you won't be able to use the latest cheat codes unless you know how to convert the CMP file into the M3 Real-compatible cheat.db format.**
 
-## MK5
-- [Official website](http://www.neoflash.com)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B3889%5Dxmenu_2.56.zip?raw=true)
-- DSi compatible: No
-- [DSDatabase Review](http://dsdatabase.org/mk5giga.html)
-
 ## N-Card
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
 - DSi compatible: No
@@ -225,6 +206,7 @@ Once finished, copy xmenu.dat onto the card.
 - [GBAtemp review](https://gbatemp.net/threads/r4-ds-review.41279/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/563-R4DS)
 - [Buy on r43ds.org](https://www.r43ds.org/products/R4-DS-Card.html)
+- [Buy on r4ds-ds.com](http://www.r4ds-ds.com/products/R4-DS-Revolution-MicroSD-TF-Slot-1-Solution-Adapter-p-120.html)
 - This card is no longer officially supported
 
 ## SuperCard DSONE (v3)
@@ -270,14 +252,44 @@ Once finished, copy xmenu.dat onto the card.
 - [Official website](http://dsfire2.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
 - [Buy on dwtechz.com](http://www.dwtechz.com/ds-fire-2-p-217.html)
+- Acekard 2i clone
+
+## DS Fire Link
+- [Official website](http://dsfirelink.com)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18526-DS_Fire_Link_v1.45_v2.52.rar?raw=true)
+- DSi compatible: No
+- Clone of the N-Card
+
+### Upgrade instructions
+
+1. Copy the .nds file onto your card and run it.
+- Once this process reaches 100%, shutdown your DS.
+2. Turn it back on and hold Start+Select to bring up the format menu. Select Quick Format and let it complete.
+Once finished, copy xmenu.dat onto the card.
+
+## DSLinker
+- [Official website](http://www.dslinker.com/) (discontinued)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
+- DSi compatible: No
+- [GBATemp Review](https://gbatemp.net/threads/ds-linker-16gbit-review.49614/)
+- [DSDatabase review](http://dsdatabase.org/showthread.php/562-DS-Linker)
+- Clone of the N-Card
 
 ## DSTT Advance
-## DSTT Fakes
+- [Official Website](http://www.dstt-adv.com/) (discontinued)
+
+## DSTTi Gold
+- [Official Website](http://www.ndstti.cn/) (discontinued)
+
 ## E7
+- [Official Website](http://www.dse7.net/) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19469-E7_v2.01_English.zip?raw=true)
 - Clone of the R4
 
 ## EDGEi
+- [Official Website](https://www.edgei-ds.cn/) (discontinued)
+- Clone of the EDGE/iEDGE
+
 ## Games'N'Music
 - [Official website](http://us.codejunkies.com/Products/NDS-Games-n-Music__EF000155.aspx)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/22656-Games_n_Music_disc_contents.zip?raw=true)
@@ -289,6 +301,7 @@ Once finished, copy xmenu.dat onto the card.
 ## GEi DS
 - [Official website](http://www.ge.ndsi.in/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)
+- Clone of the R4
 
 ## Gold R4i (r4ids.com)
 ## Hyper R4i
@@ -300,7 +313,14 @@ Once finished, copy xmenu.dat onto the card.
 - 3DS Support: Yes
 
 ## M3 Adaptador
+- [Official Website](http://www.m3adaptador.com/) (discontinued)
+- [English System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/M3Adaptador_v3.9_English.zip?raw=true)
+- Ripoff of the M3
+
 ## M3 Adaptes
+- [Official Website](http://www.m3adaptes.com/) (discontinued)
+- Fake M3 copycats. They use a clone loader similar to the DSTT.
+
 ## M3 Simply
 - [Official website](http://www.m3adapter.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32256-Wood_R4_v1.62.7z?raw=true)
@@ -327,23 +347,38 @@ Once finished, copy xmenu.dat onto the card.
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18958-MMPDS_v1.22.zip?raw=true)
 - [CodeJunkies Review](https://web.archive.org/web/20070526180552/http://uk.codejunkies.com/news_reviews.asp?c=&cr=&cs=&r=1&l=&page=1&p=17&i=8952&s=8)
 
+## MK5
+- [Official website](http://www.neoflash.com)
+- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B3889%5Dxmenu_2.56.zip?raw=true)
+- DSi compatible: No
+- [DSDatabase Review](http://dsdatabase.org/mk5giga.html)
+- Clone of the N-Card
+
 ## N5
 - [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
-- Clone of the R4
+- Clone of the R4/M3 Simply
+- DSi Compatible: No
 
 ## N5i
 - [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/26383-n5i.zip?raw=true)
+- Clone of the R4/M3 Simply
+- DSi Compatible: Yes
 
 ## NCard II
+- [Official Website](http://www.ncard2.com/) (discontinued)
+- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NCard_II_2nd082009.zip?raw=true)
+- Clone of the N-Card and the DSTT
 
 ## ND1
-- Clone of the R4
+- [Official Website](http://www.dsnd1.com/) (discontinued)
+- Clone of the N5, which is a clone of the R4
 
 ## NinjaDS
 
 ## NPlayer
+- [Official Website](http://www.ndsplayer.com/) (discontinued)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/409-NPlayer)
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
@@ -412,6 +447,7 @@ Once finished, copy xmenu.dat onto the card.
 ## R4ds-i
 
 ## R4dsixl3d
+- [Official Website](https://www.r4dsixl3d.com/)
 
 ## R4i3D (2014)
 - [Official website](http://www.r4i3d.com/) (discontinued)
@@ -424,6 +460,10 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4i (r4ultra.com)
 - [Official website](http://www.r4ultra.com/) (discontinued)
+
+## R4i+ 3DS/DS RTS
+- [Official Website](http://r4ids.cn/)
+- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/Wood_R4iGold_V1.64.rar?raw=true)
 
 ## R4i Advance
 
@@ -446,6 +486,7 @@ Once finished, copy xmenu.dat onto the card.
 - [Official website](http://www.r4ids.cn/)
 - DSi compatible: Yes
 - Said to be based on Acekard 2i OEM (TBC)
+- [Buy on r4ds-ds.com](http://www.r4ds-ds.com/products/R4i-Gold-Card-For-DSi-and-DSi-XL-Consoles-p-162.html)
 
 ## R4i Gold (r4i-gold.com)
 - [Official website](http://www.r4i-gold.com/) (discontinued)
@@ -477,8 +518,11 @@ Once finished, copy xmenu.dat onto the card.
 - [Official Website](http://r4iplat.com/) (discontinued)
 
 ## R4i Pocket
+- [Official Website](http://www.r4ipocket.com/) (discontinued)
 
 ## R4i Pro Upgrade
+- [Official Website](http://www.r4ipro.com/)
+- Clone of the R4
 
 ## R4i Redant
 - [Official Webite](http://www.r4i-redant.com/indexe.html) (discontinued)
@@ -545,14 +589,15 @@ Once finished, copy xmenu.dat onto the card.
 ## TTi Upgrade
 - [Official website](http://www.nds-tti.com/) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
-- 
+- Clone of the DSTT
 
 ## U2DS
 - [Official website](http://www.u2ds.com/) (discontinued)
 - System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19749-U2DS_v1.7c_English.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19754-U2DS_v1.7c_Traditional_Chinese.zip?raw=true)]
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/377-U2DS)
-- Clone of the R4DS
+- Clone of either the DSTT or the R4.
 
 ## Ultra Flashpass Ex
 - [Official website](http://www.ndsgba.net/) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B905%5Dufpex_145_252.zip?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/ultra-flashpass-ex-review.45180/)
