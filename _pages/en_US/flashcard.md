@@ -11,34 +11,34 @@ The list should be sorted alphabetically.
 
 # Original Flashcards
 ## Acekard
-- [Official website](http://acekard.com) (Discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-review.39686/)
 - This card is no longer officially supported
 
 ## Acekard+
-- [Official website](http://www.acekard.com) (Discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18443-AceKard_Plus_System_English_v1.15.rar?raw=true)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18443-AceKard_Plus_System_English_v1.15.rar?raw=true)
 - DSi compatible: No
 - This card is no longer officially supported
 
 ## Acekard RPG
-- [Official website](http://www.acekard.com) (Discontinued)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32258-Wood_RPG_v1.62.7z?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-r-p-g-review.68305/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/551-AceKard-RPG)
 
 ## Acekard 2
-- [Official website](http://www.acekard.com) (Discontinued)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/12379-ak2_423_20100721_release.zip?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-review.79368/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/542-AceKard-2)
 
 ## Acekard 2.1
-- [Official website](http://www.acekard.com) (Discontinued)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-1-review.224477/)
@@ -46,7 +46,7 @@ The list should be sorted alphabetically.
 - [Buy from r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
 
 ## Acekard 2i
-- [Official website](http://www.acekard.com) (Discontinued)
+- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
 - DSi compatible: Up to (and including) v1.4.4
@@ -81,7 +81,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - DSi compatible: No
 
 ## DS-Xtreme
-- [Official website](http://www.ds-x.com/) (discontinued)
+- [Official website](http://www.ds-x.com/) ([Archive](https://web.archive.org/web/20080916000621/http://www.ds-x.com/cgi-bin/dsx/engine.pl?page=home))
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
 - DSi compatible: No
 - [DSFlash Review](http://dsflash.com/ds-xtreme.htm)
@@ -105,7 +105,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - This card is no longer officially supported
 
 ## eWin2
-- [Official website](http://www.ewin2.net/) (discontinued)
+- [Official website](http://www.ewin2.net/) ([Archive](https://web.archive.org/web/20070517021923/http://www.ewin2.net/))
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18742-eWin2_firmware_v1.96.8EN.rar?raw=true)
 - [GBATemp Review](https://gbatemp.net/threads/ewin2-review.37794/)
 - DSi compatible: No
@@ -134,7 +134,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Buy on r4ds-ds.com](http://www.r4ds-ds.com/products/EZ-Flash-Vi-Simple-Edition-for-DS-DS-Lite-and-DSi-p-241.html)
 
 ## G6 DS Real
-- [Official website](http://www.g6flash.com/) (discontinued)
+- [Official website](http://www.g6flash.com/) ([Archive](http://web.archive.org/web/20140102193632/http://g6flash.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23808-G6_M3DS-R_M74.zip?raw=true)
 - [GBATemp Review](https://gbatemp.net/threads/g6ds-real-review.49102/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/559-G6DS-Real)
@@ -143,7 +143,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - DSi compatible: No
 
 ## G6 Flash/Lite
-- [Official website](http://www.g6flash.com/) (discontinued)
+- [Official website](http://www.g6flash.com/) ([Archive](http://web.archive.org/web/20140102193632/http://g6flash.com/))
 - [Kernel](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18355-G6_Kernel_v4.8_English.zip?raw=true)
 - [PC Software](http://filetrip.net/f2298-G6-Manager-5-1-Full.html)
 - [GBATemp Review (Third-Generation)](https://gbatemp.net/threads/g6-flash-3rd-generation-review.28750/)
@@ -151,10 +151,12 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - DSi compatible: No
 
 ## iPlayer
-- [Official website](http://www.dsiplayer.com/) (discontinued)
+- [Official website](http://www.dsiplayer.com/) ([Archive](http://web.archive.org/web/20171218121538/http://www.dsiplayer.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25071-eng_iPlayer_OS_20110513.zip?raw=true)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/206-iPlayer)
 - DSi compatible: Yes
+
+**This Flashcard does not normally boot retail ROMs. You'll need to use nds-bootstrap's flashcard branch in order to load retail ROMs**
 
 ## iTouch2
 - [Official website](http://www.itouchds.com/) ([Archive](https://web.archive.org/web/20101007203705/http://www.itouchds.com/))
@@ -170,7 +172,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [GBATemp Review](https://gbatemp.net/threads/itouchds-review.90757/)
 
 ## M3 DS Real/M3 Perfect
-- [Official website](http://m3adapter.com) (discontinued)
+- [Official website](http://m3adapter.com) ([Archive](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/4374-M3_Sakura_1.49X_3rd_TouchPod_4.9.rar?raw=true)
 - DSi/3DS compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/m3ds-real-review.68277/)
@@ -249,8 +251,8 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
 
 ## DS Fire 2
-- [Official website](http://dsfire2.com) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
+- [Official website](http://dsfire2.com) ([Archive](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/))
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
 - [Buy on dwtechz.com](http://www.dwtechz.com/ds-fire-2-p-217.html)
 - Acekard 2i clone
 
@@ -268,7 +270,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 Once finished, copy xmenu.dat onto the card.
 
 ## DSLinker
-- [Official website](http://www.dslinker.com/) (discontinued)
+- [Official website](http://www.dslinker.com/) ([Archive](http://web.archive.org/web/20070608001434/http://www.dslinker.com/), does not work well on modern browsers with modern rendering engines)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/ds-linker-16gbit-review.49614/)
@@ -276,18 +278,18 @@ Once finished, copy xmenu.dat onto the card.
 - Clone of the N-Card
 
 ## DSTT Advance
-- [Official Website](http://www.dstt-adv.com/) (discontinued)
+- [Official Website](http://www.dstt-adv.com/) ([Archive](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/))
 
 ## DSTTi Gold
-- [Official Website](http://www.ndstti.cn/) (discontinued)
+- [Official Website](http://www.ndstti.cn/) ([Archive](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/))
+- This card is no longer officially supported
 
 ## E7
-- [Official Website](http://www.dse7.net/) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19469-E7_v2.01_English.zip?raw=true)
 - Clone of the R4
 
 ## EDGEi
-- [Official Website](https://www.edgei-ds.cn/) (discontinued)
+- [Official Website](https://www.edgei-ds.cn/) ([Archive](http://web.archive.org/web/20100209184039/http://www.edgei-ds.cn/))
 - Clone of the EDGE/iEDGE
 
 ## Games'N'Music
@@ -300,29 +302,27 @@ Once finished, copy xmenu.dat onto the card.
 
 ## GEi DS
 - [Official website](http://www.ge.ndsi.in/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)
 - Clone of the R4
 
 ## Gold R4i (r4ids.com)
 ## Hyper R4i
 ## iSmart Premium
-- [Official website](http://ismartds.com) (discontinued)
+- [Official website](http://ismartds.com) ([Archive](http://web.archive.org/web/20150924230036/http://ismartds.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24622-system_v105.zip?raw=true)
 - [DS-Scene Review](http://www.ds-scene.net/?s=viewtopic&id=3346)
 - [Buy on Digimartz.com](http://www.digimartz.com/ismart-ds-ismart-premium-for-nintendo-ds-dsi-dsi-ll_p704.html)
 - 3DS Support: Yes
 
 ## M3 Adaptador
-- [Official Website](http://www.m3adaptador.com/) (discontinued)
 - [English System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/M3Adaptador_v3.9_English.zip?raw=true)
 - Ripoff of the M3
 
 ## M3 Adaptes
-- [Official Website](http://www.m3adaptes.com/) (discontinued)
 - Fake M3 copycats. They use a clone loader similar to the DSTT.
 
 ## M3 Simply
-- [Official website](http://www.m3adapter.com) (discontinued)
+- [Official website](http://www.m3adapter.com) ([Archive](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32256-Wood_R4_v1.62.7z?raw=true)
 - [GBATemp Review](https://gbatemp.net/threads/m3-ds-simply-review.44631/)
 - Clone of the R4 DS
@@ -335,11 +335,10 @@ Once finished, copy xmenu.dat onto the card.
 
 ## M3i Upgrade/M3L Upgrade
 - [Official website](http://m3iupgrade.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19507-m3iupgrade_M3i_v1.45_English.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19507-m3iupgrade_M3i_v1.45_English.rar?raw=true)
 
 ## MARS
-- [Official Website](http://www.ndsmars.com/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
 - Clone of the R4DS
 
 ## Max Media Player
@@ -383,7 +382,7 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
 - [Official website](http://r4-usas.com/) ([Archive](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/))
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
 
 ## R4 Advance
 
@@ -504,7 +503,7 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4i II
 - [Official website](http://www.r4i-sdhc.com.hk) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
 
 ## R4i (ndsill.net)
 - [Official Website](http://www.ndsill.net) (discontinued)
@@ -545,20 +544,20 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4i SDHC Upgrade 1.4.1
 - [Official website](http://www.r4i-sdhc.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/22651-R4i%20V1.27b%20English.zip?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/22651-R4i%20V1.27b%20English.zip?raw=true)
 - DSi compatible: Yes
 
 ## R4i SDHC (r4i-sdhc.com)
 - [Official website](http://www.r4i-sdhc.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21343-r4i-sdhc_v1.22b_English.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21343-r4i-sdhc_v1.22b_English.rar?raw=true)
 
 ## R4i SDHC (r4i-sdhc.com.au)
 - [Official website](http://www.r4i-sdhc.com.au/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21693-R4iSDHC.com.au_v2.12c_English.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21693-R4iSDHC.com.au_v2.12c_English.rar?raw=true)
 
 ## R4i SDHC (r4isdhc.com)
 - [Official website](http://www.r4isdhc.com/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21556-r4isdhc_R4i_v2.0b_English.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21556-r4isdhc_R4i_v2.0b_English.rar?raw=true)
 - DSTTi clone (TBC)
 
 ## R4i Ultimate
@@ -584,11 +583,11 @@ Once finished, copy xmenu.dat onto the card.
 
 ## Super R4i
 - [Official website](http://www.super4i.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21785-SuperR4i_v1.20_English.zip?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21785-SuperR4i_v1.20_English.zip?raw=true)
 
 ## TTi Upgrade
 - [Official website](http://www.nds-tti.com/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
+- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
 - Clone of the DSTT
 
 ## U2DS
