@@ -264,6 +264,19 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
 - Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
 
+## Ace3DS 
+
+## Ace3DS Plus
+
+- [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
+- [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
+
+## Ace3DS X
+- [GBATemp Review](https://gbatemp.net/review/ace3dsx.667/)
+- [Another GBATemp Review](https://gbatemp.net/threads/review-ace3ds-x.487871/)
+- [Yet another GBATemp Review](https://gbatemp.net/threads/ace3ds-x-review.488210/)
+- [Buy on royal3ds.com](http://www.royal3ds.com/ace3ds-x-flashcart-supports-ds-mode-and-3ds-modewith-boot9strap-ntrboot-18.html)
+
 ## DS Fire 2
 - [Official website](http://dsfire2.com) ([Archive](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/))
 - [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
@@ -280,8 +293,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 1. Copy the .nds file onto your card and run it.
 - Once this process reaches 100%, shutdown your DS.
-2. Turn it back on and hold Start+Select to bring up the format menu. Select Quick Format and let it complete.
-Once finished, copy xmenu.dat onto the card.
+2. Turn it back on and hold Start+Select to bring up the format menu.
+3. Select Quick Format and let it complete.
+4. Once finished, copy xmenu.dat onto the card.
 
 ## DSLinker
 - [Official website](http://www.dslinker.com/) ([Archive](http://web.archive.org/web/20070608001434/http://www.dslinker.com/), does not work well on modern browsers with modern rendering engines)
@@ -321,6 +335,9 @@ Once finished, copy xmenu.dat onto the card.
 
 ## Gold R4i (r4ids.com)
 ## Hyper R4i
+- [Official Website](http://hyper4i.com)
+- [English System Files]()
+
 ## iSmart Premium
 - [Official website](http://ismartds.com) ([Archive](http://web.archive.org/web/20150924230036/http://ismartds.com/))
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24622-system_v105.zip?raw=true)
@@ -449,6 +466,9 @@ Once finished, copy xmenu.dat onto the card.
 
 ## R4 III (r4-dsl.net)
 - [Official website](http://www.r4-dsl.net/)
+
+## R4 III (r4iiinew.com)
+- [Official Webiste](http://r4iiinew.com)
 
 ## R4 III SDHC
 
