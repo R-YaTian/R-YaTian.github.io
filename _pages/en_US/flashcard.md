@@ -225,7 +225,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
 - [Supercard DSONE (v3) vs iTouch2 GBATemp Comparison](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
 - [GBATemp Review](https://gbatemp.net/threads/supercard-ds-one-v3.88932/)
-- DSDatabase Review: \[[v1](http://dsdatabase.org/showthread.php/565-Supercard-DS-ONE-V1)/[v2](http://dsdatabase.org/showthread.php/556-Supercard-DS-ONE-V2)
+- DSDatabase Review: \[[v1](http://dsdatabase.org/showthread.php/565-Supercard-DS-ONE-V1)/[v2](http://dsdatabase.org/showthread.php/556-Supercard-DS-ONE-V2)]
 - DSi compatible: No
 
 ## SuperCard DSONEi
@@ -257,6 +257,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [GBATemp Review](https://gbatemp.net/review/dstwo.412/)
 - [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo-Plus.html)
 - [Buy on 3ds-flashcard.cc](http://3ds-flashcard.cc/home/52-dstwo-plus-for-3dsds-game.html)
+- [Buy on royal3ds.com](http://www.royal3ds.com/buy-supercard-dstwo-plusdstwo-for-playing-3ds-ds-gba-games-14.html)
+- [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=135)
+- [Buy on stargate3ds.org](http://stargate3ds.org/home/11-supercard-dstwo-plus.html)
 
 # Clones & Fakes
 - "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
@@ -267,15 +270,17 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## Ace3DS 
 
 ## Ace3DS Plus
-
 - [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
 - [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
+- NTRBoot compatible
 
 ## Ace3DS X
 - [GBATemp Review](https://gbatemp.net/review/ace3dsx.667/)
 - [Another GBATemp Review](https://gbatemp.net/threads/review-ace3ds-x.487871/)
 - [Yet another GBATemp Review](https://gbatemp.net/threads/ace3ds-x-review.488210/)
 - [Buy on royal3ds.com](http://www.royal3ds.com/ace3ds-x-flashcart-supports-ds-mode-and-3ds-modewith-boot9strap-ntrboot-18.html)
+- [Buy on stargate3ds.org](http://stargate3ds.org/home/24-ace3ds-x.html)
+- NTRBoot Compatible
 
 ## DS Fire 2
 - [Official website](http://dsfire2.com) ([Archive](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/))
@@ -413,6 +418,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## NPlayer
 - [Official Website](http://www.ndsplayer.com/) (discontinued)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/409-NPlayer)
+- System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Korean.zip?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Italian.zip?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Spanish.zip?raw=true)]
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
 - [Official website](http://r4-usas.com/) ([Archive](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/))
@@ -432,6 +438,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4 Plus (r4.ndsl.cc)
 - [Official website](http://www.r4.ndsl.cc/) (discontinued)
+- System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_English.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_Traditional_Chinese.rar?raw=true)]
 
 ## R4 Plus (r4plus.net)
 - [Official website](http://www.r4plus.net/) (discontinued)
@@ -469,6 +476,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4 III (r4iiinew.com)
 - [Official Webiste](http://r4iiinew.com)
+
 
 ## R4 III SDHC
 
@@ -545,6 +553,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [3ds-flashcard.cc review](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/)
 - [Buy from dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html)
 - [Buy from 3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html)
+- [Buy from nds-card.com](https://nds-card.com/ProShow.asp?ProID=575)
 
 ## R4i Gold 3DS Wood
 - [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/Wood_R4iGold_V1.64.rar?raw=true)
