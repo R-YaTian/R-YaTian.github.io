@@ -36,6 +36,7 @@ The list should be sorted alphabetically.
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-review.79368/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/542-AceKard-2)
+- [DCEMUuk Review](http://reviews.dcemu.co.uk/review-acekard-2-ds-card-microsdhc-slot-1-105502.html)
 
 ## Acekard 2.1
 - [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
@@ -43,6 +44,7 @@ The list should be sorted alphabetically.
 - DSi compatible: No
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-1-review.224477/)
 - [DS Database Review](http://dsdatabase.org/showthread.php/408-AceKard-2-1)
+- [DCEMUuk Review](http://www.dcemu.co.uk/vbulletin/threads/172142-Review-Acekard-2-1-DS-MicroSDHC-SLOT-1)
 - [Buy from r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
 
 ## Acekard 2i
@@ -51,6 +53,7 @@ The list should be sorted alphabetically.
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
 - DSi compatible: Up to (and including) v1.4.4
 - 3DS compatible: Up to (and including) v4.3.0
+- NTRBoot Compatible.
 - [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
 - [DSiHacker Review](http://dsihacker.com/acekard-2i.php)
 - [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=160)
@@ -432,6 +435,19 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4 i.L.S.
 
+## R4 II
+
+## R4 III (r4-dsl.net)
+- [Official website](http://www.r4-dsl.net/)
+
+## R4 III (r4iiinew.com)
+- [Official Webiste](http://r4iiinew.com)
+
+## R4 III SDHC
+
+## R4 III Upgrade (r4dsl.net)
+- [Official website](http://www.r4dsl.net/) (discontinued)
+
 ## R4 King
 
 ## R4 New
@@ -469,24 +485,6 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## R4 Upgrade (r4-dsl.net)
 - [Official website](http://www.r4-dsl.net/)
 
-## R4 II
-
-## R4 III (r4-dsl.net)
-- [Official website](http://www.r4-dsl.net/)
-
-## R4 III (r4iiinew.com)
-- [Official Webiste](http://r4iiinew.com)
-
-
-## R4 III SDHC
-
-## R4 III Upgrade (r4dsl.net)
-- [Official website](http://www.r4dsl.net/) (discontinued)
-
-## R4 New
-
-## R4 Pro
-
 ## R4 v
 
 ## R4ds-i
@@ -494,8 +492,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## R4dsixl3d
 - [Official Website](https://www.r4dsixl3d.com/)
 
-## R4i3D (2014)
-- [Official website](http://www.r4i3d.com/) (discontinued)
+## R4i (ndsill.net)
+- [Official Website](http://www.ndsill.net) (discontinued)
+- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
 
 ## R4i (r4i.cn)
 - [Official website](http://www.r4i.cn/) (discontinued)
@@ -563,10 +562,6 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Official website](http://www.r4i-sdhc.com.hk) (discontinued)
 - [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
 
-## R4i (ndsill.net)
-- [Official Website](http://www.ndsill.net) (discontinued)
-- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
-
 ## R4i NDSiXL 3D
 
 ## R4i Neo
@@ -625,6 +620,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Official website](http://www.r4i-yes.com) (discontinued)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25202-r4i-yes.zip?raw=true)
 - [Buy on digitopz.com](http://www.digitopz.com/r4iyes-p-93.html)
+
+## R4i3D (2014)
+- [Official website](http://www.r4i3d.com/) (discontinued)
 
 ## R4iDSXL
 - [Official website](http://www.r4idsxl.com/) (discontinued)
