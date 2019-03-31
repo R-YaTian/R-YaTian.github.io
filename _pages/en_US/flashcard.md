@@ -37,6 +37,8 @@ The list should be sorted alphabetically.
 - [GBAtemp Review](https://gbatemp.net/threads/acekard-2-review.79368/)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/542-AceKard-2)
 - [DCEMUuk Review](http://reviews.dcemu.co.uk/review-acekard-2-ds-card-microsdhc-slot-1-105502.html)
+- [DSTemp Review](https://gbatemp.net/threads/my-acekard-2-review.98141/)
+- 
 
 ## Acekard 2.1
 - [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
@@ -54,7 +56,9 @@ The list should be sorted alphabetically.
 - DSi compatible: Up to (and including) v1.4.4
 - 3DS compatible: Up to (and including) v4.3.0
 - NTRBoot Compatible.
-- [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
+- [Official GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
+- [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.269055/)
+- [KingdomBlade's Review](https://gbatemp.net/threads/acekard-2i-review.171515/)
 - [DSiHacker Review](http://dsihacker.com/acekard-2i.php)
 - [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=160)
 - [Buy on r43ds.org](https://www.r43ds.org/products/Acekard-2i-For-DSi.html)
@@ -71,7 +75,8 @@ If you use a DSi under 1.4, copy and run `dsi.nds`.
 - System files: \[[Stable](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25158-evo-firmware-2.3.zip?raw=true)/[Beta](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24709-evo-firmware-BETA-B.7.zip?raw=true)]
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/cyclods-evolution-review.53450/)
-- [iEvolution DSDatabase Review](http://dsdatabase.org/showthread.php/1900-Cyclo-DS-iEvolution-Review)
+- [RockStar99's Review](https://gbatemp.net/threads/rockstar99s-cyclods-review.161605/#post-2054227)
+- [DSDatabase Review](http://dsdatabase.org/showthread.php/1900-Cyclo-DS-iEvolution-Review)
 - [Buy iEvolution on digitopz.com](http://www.digitopz.com/cyclods-ievolution-flashcard-for-dsdsi3ds-p-702.html)
 
 ### Update instructions
@@ -228,6 +233,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
 - [Supercard DSONE (v3) vs iTouch2 GBATemp Comparison](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
 - [GBATemp Review](https://gbatemp.net/threads/supercard-ds-one-v3.88932/)
+- [DSTemp Review](https://gbatemp.net/threads/my-supercard-ds-one-v3-review.98140/#post-1309500)
 - DSDatabase Review: \[[v1](http://dsdatabase.org/showthread.php/565-Supercard-DS-ONE-V1)/[v2](http://dsdatabase.org/showthread.php/556-Supercard-DS-ONE-V2)]
 - DSi compatible: No
 
@@ -249,6 +255,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - Official plugins: [Media Player](http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html), [GBA Emulator](http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html), [SNES Emulator](http://filetrip.net/g35131424-CATSFC.html), [Document Viewer](http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.232281/)
+- [Another GBATemp (with EOS 1.08) Review](https://gbatemp.net/threads/supercard-dstwo-w-eos-v1-08-review.270748/#post-3341837)
+- [Yet Another GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.241242/)
+- [ProGamers Review](https://gbatemp.net/threads/review-of-the-supercard-dstwo.230755/)
 - [DSDatabase Review](http://dsdatabase.org/content.php/58-Supercard-DSTwo-Review)
 - [CodeDonut Review](https://www.codedonut.com/ds-hacking/supercard-dstwo-review/)
 - [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo.html) (out of stock)
@@ -335,6 +344,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [GBATemp Review](https://gbatemp.net/threads/games-n-music.91189/)
 
 **This Flashcard does not normally boot retail ROMs. You'll need to use nds-bootstrap's flashcard branch in order to load retail ROMs** 
+
+## Gateway 3DS (Blue card)
+
 
 ## GEi DS
 - [Official website](http://www.ge.ndsi.in/)
