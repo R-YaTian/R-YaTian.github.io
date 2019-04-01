@@ -272,6 +272,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Buy on royal3ds.com](http://www.royal3ds.com/buy-supercard-dstwo-plusdstwo-for-playing-3ds-ds-gba-games-14.html)
 - [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=135)
 - [Buy on stargate3ds.org](http://stargate3ds.org/home/11-supercard-dstwo-plus.html)
+- [Buy on modchipsdirect.com](http://www.modchipsdirect.com/supercard-ds2-plus-ds-two-plus.html)
 
 # Clones & Fakes
 - "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
@@ -284,6 +285,8 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## Ace3DS Plus
 - [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
 - [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
+- [Buy on mod3dscard.com](https://www.mod3dscard.com/home/8-ace3ds-plus-cheapest-r4-card.html)
+- [Buy on r4wood.com](https://www.r4wood.com/en/home/25-ace3ds-plus-cheap-card-new-3ds-2ds-dsi-ds.html)
 - NTRBoot compatible
 
 ## Ace3DS X
@@ -292,6 +295,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Yet another GBATemp Review](https://gbatemp.net/threads/ace3ds-x-review.488210/)
 - [Buy on royal3ds.com](http://www.royal3ds.com/ace3ds-x-flashcart-supports-ds-mode-and-3ds-modewith-boot9strap-ntrboot-18.html)
 - [Buy on stargate3ds.org](http://stargate3ds.org/home/24-ace3ds-x.html)
+- [Buy on mod3dscard.com](https://www.mod3dscard.com/home/9-ace3ds-x-best-ntrboot-flashcard.html)
 - NTRBoot Compatible
 
 ## DS Fire 2
@@ -435,6 +439,9 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/409-NPlayer)
 - System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Korean.zip?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Italian.zip?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Spanish.zip?raw=true)]
 
+## QQ3DS
+- [Buy on 3dsflashkart.com](http://www.3dsflashkart.com/qq3ds-break-all-ds3ds-backup-games-for-any-3ds3dsxl2dsnew-3ds-p-293.html)
+
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
 - [Official website](http://r4-usas.com/) ([Archive](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/))
 - [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
@@ -558,13 +565,20 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## R4i Gold (r4igold.cn)
 - [Official website](http://www.r4igold.cn/) (discontinued)
 
+## R4i Gold 3DS Deluxe (Grey Card)
+- 
+
 ## R4i Gold 3DS Plus
 - [Official Website](http://www.r4ids.cn/)
 - [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i%20Gold%203DS%20Plus%20r4ids.cn%20flash%20backup.zip?raw=true)
+- [GBATemp Review](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/)
 - [3ds-flashcard.cc review](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/)
 - [Buy from dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html)
 - [Buy from 3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html)
 - [Buy from nds-card.com](https://nds-card.com/ProShow.asp?ProID=575)
+- [Buy from mod3dscard.com](https://www.mod3dscard.com/home/3-r4i-gold-3ds-rts-plusbest-r4i-gold-for-any-3ds-dsi.html)
+- [Buy from modchipsdirect.com](http://www.modchipsdirect.com/r4i-gold-3ds-plus.html)
+- [Buy from r4wood.com](https://www.r4wood.com/en/home/23-r4i-gold-3ds-plus-b9s-cfw-preflashed-r4i-gold-rts-card.html)
 
 ## R4i Gold 3DS Wood
 - [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/Wood_R4iGold_V1.64.rar?raw=true)
