@@ -15,22 +15,21 @@ redirect_from:
 
 TWiLight Menu++ is an open-source & customizable unified interface for launching NES, SNES, Gameboy (Color), SEGA GameGear, SEGA Genesis/Mega Drive, Nintendo DS & DSiWare titles that can completely replace the default menu. It can be used as a frontend for either nds-bootstrap or supported flashcards.
 
-## Downloads
+## Requirements
 
 - The latest release of [TWiLight Menu++](https://github.com/RocketRobz/TWiLightMenu/releases){:target="_blank"}
-- The latest release of [FBI](https://github.com/Steveice10/FBI/releases){:target="_blank"} for 3DS users
 - The latest release of the [TWiLight Menu++ Updater](https://github.com/RocketRobz/TWiLightMenu-Updater/releases){:target="_blank"} for 3DS users
+- An active internet connection on your 3DS if you'd like to use the Automatic Installation process. If you do not own a Nintendo 3DS/you have not setup an active internet connection, follow the Manual Installation process.
 
 ## Manual Installation (3DS, DSi & Flashcard users)
 
 1. Open the TWiLight Menu++ `.7z` file
 2. Copy the `_nds` folder to the root of your SD card
-3. For DSi users, copy *the contents of* the `SDNAND root` folder in the `DSi - CFW users` folder to the root of your SD card
-4. For 3DS users, copy *the contents of* the `3DS - CFW users` folder to the `cia` folder of your SD card.
-5. For 3DS users, copy `TWiLightMenu-Updater.cia` to the `cia` folder of your SD card
+3. For DSi users, copy *the contents of* `DSi - CFW users/SDNAND root` to the root of your SD card
+4. For 3DS users, copy *the contents of* `3DS - CFW users` and `TWiLightMenu-Updater.cia` to the `cia` folder of your SD card.
 5. For flashcard users, copy the `_nds` folder and the `boot.nds` file located inside the `flashcard` folder to the root of your SD card
 6. For DSi & 3DS users, copy the `_nds` folder and `boot.nds` file from `DSi&3DS - SD card users` folder to the root of your SD card
-7. For 3DS users, install the 3 cia files found inside the cia folder using FBI.
+7. For 3DS users, install the 3 cia files found inside the cia folder using a CIA manager.
 
 For 3DS and DSi users, TWiLight Menu++ should now be on your System Menu, as any other DSiWare would be.
 {: .notice--info}
