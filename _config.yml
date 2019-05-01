@@ -13,10 +13,10 @@ title                    : "DS Homebrew"
 title_separator          : "-"
 name                     : "NightYoshi370 & emiyl"
 description              : "A complete guide to homebrewing your Nintendo (3)DS(i)."
-url                      : "https://ds-homebrew.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "ds-homebrew.github.io"
+url                      : "https://r-yatian.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "r-yatian.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "DS-Homebrew/ds-homebrew.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "R-YaTian/R-YaTian.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
