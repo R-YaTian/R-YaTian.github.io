@@ -7,7 +7,7 @@ main:
     title: FAQ
     url: faq
   -
-    title: Dumping DSiWare
+    title: 导出 DSiWare
     url: dumping-dsiware
   -
     title: 安装 DSiWare
@@ -16,33 +16,30 @@ main:
     title: 安装 TWiLightMenu++
     url: installing-twilight-menu++
   -
-    title: Site Navigation
+    title: 网站导航
     url: site-navigation
 bottom:
-  -
 footer:
   -
     title: Source
   -
-    title: Site Navigation
-  -
-    title: Why Ads?
+    title: 网站导航
 sidebar_title:
   -
     title: Overall Progress
 sidebar_pages:
   -
-    title: Home
+    title: 主页
     url: /
   -
-    title: Installing Unlaunch
+    title: 安装 Unlaunch
     url: installing-unlaunch
   -
-    title: Installing Unlaunch (TempNAND)
+    title: 安装 Unlaunch (TempNAND)
     url: installing-unlaunch-(tempnand)
   -
-    title: Installing HiyaCFW
+    title: 安装 HiyaCFW
     url: installing-hiyacfw
   -
-    title: Installing TWiLight Menu++
+    title: 安装 TWiLightMenu++
     url: installing-twilight-menu++
