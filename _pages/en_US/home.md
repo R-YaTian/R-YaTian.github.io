@@ -7,7 +7,6 @@ header:
   cta_label: "开始"
   cta_url: getting-started
 ---
-
 关于在其他机器运行游戏或安装自制固件,请点击[CFW.Guide](https://cfw.guide).
 {: .notice--primary}
 
