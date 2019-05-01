@@ -14,7 +14,7 @@ Ensure your console language is set to English if your system region is USA.
 Ensure your SD card is formatted to FAT32 before proceeding.
 {: .notice--info}
 
-If you are using a Nintendo 3DS, you'll need to [install 3DS CFW](https://3ds.hacks.guide) **before** following this guide
+如果你使用的是Nintendo3DS,你需要[安装3DS自制固件](https://3ds.hacks.guide/zh_CN/)**在进行此向导之前**
 {: .notice--info}
 
 In order to setup TWL_FIRM/DS(i) hacks on your console, you'll first need to take a look at what you have:
