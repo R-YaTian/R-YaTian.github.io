@@ -6,6 +6,7 @@ sitemap: false
 {% capture notice-1 %}
 **常用**
 
++ [主页](/)
 + [安装 Unlaunch](installing-unlaunch)
 + [安装 HiyaCFW](installing-hiyacfw)
 + [安装 TWiLightMenu++](installing-twilight-menu++)
@@ -17,14 +18,13 @@ sitemap: false
 {% capture notice-2 %}
 **其他**
 
++ [FAQ](faq)
 + [Credits](credits)
-+ [导出 DSiWare](dumping-dsiware)
 + [F3 (Linux)](f3-(linux))
 + [F3X (Mac)](f3x-(mac))
-+ [FAQ](faq)
-+ [显示文件扩展名 (Windows)](file-extensions-(windows))
 + [H2testw (Windows)](h2testw-(windows))
-+ [主页](/)
++ [显示文件扩展名 (Windows)](file-extensions-(windows))
++ [导出 DSiWare](dumping-dsiware)
 + [安装 DSiWare](installing-dsiware)
 + [安装 Unlaunch(TempNAND)](installing-unlaunch-(tempnand))
 {% endcapture %}
