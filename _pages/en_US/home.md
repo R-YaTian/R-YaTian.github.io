@@ -1,20 +1,20 @@
 ---
 layout: splash
 title: DS Homebrew
-excerpt: "A complete guide to homebrewing your Nintendo (3)DS(i)."
+excerpt: "在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
   overlay_color: "#1a1d24"
   cta_label: "开始"
   cta_url: getting-started
 ---
 
-For complete guides to homebrew and custom firmware for other devices, check out [CFW.Guide](https://cfw.guide).
+关于在其他机器运行游戏或安装自制固件,请点击[CFW.Guide](https://cfw.guide).
 {: .notice--primary}
 
-This guide is not compatible with development DSi consoles or Chinese iQue DSi consoles.
+关于安装自制固件的向导不适用于DSi开发机及iQueDSi
 {: .notice--danger}
 
-Thoroughly read all of the introductory pages (including this one!) before proceeding.
+在开始前请阅读所有说明页面(包括本页!)
 {: .notice--info}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
