@@ -10,17 +10,16 @@ main:
     title: Dumping DSiWare
     url: dumping-dsiware
   -
-    title: Installing DSiWare
+    title: 安装 DSiWare
     url: installing-dsiware
   -
-    title: Installing TWiLight Menu++
+    title: 安装 TWiLightMenu++
     url: installing-twilight-menu++
   -
     title: Site Navigation
     url: site-navigation
 bottom:
   -
-    title: If you need help, ask the <a href="https://dshomebrew.serveo.net/">DS Homebrew Rocket.Chat server</a> (<a href="https://b2b38a00.ngrok.io/">alternative link</a>).
 footer:
   -
     title: Source
