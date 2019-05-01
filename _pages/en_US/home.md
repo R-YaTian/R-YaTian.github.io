@@ -16,9 +16,6 @@ header:
 
 在开始前请阅读所有说明页面(包括本页!)
 {: .notice--info}
-
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
-
 ## What is homebrew?
 
 Homebrew applications are custom, user-made software, which haven't been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
