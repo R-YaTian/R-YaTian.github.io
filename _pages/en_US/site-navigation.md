@@ -18,7 +18,6 @@ sitemap: false
 **其他**
 
 + [Credits](credits)
-+ [Donations](donations)
 + [导出 DSiWare](dumping-dsiware)
 + [F3 (Linux)](f3-(linux))
 + [F3X (Mac)](f3x-(mac))
