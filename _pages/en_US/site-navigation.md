@@ -1,34 +1,32 @@
 ---
-title: "Site Navigation" #
+title: "网站导航" #
 layout: single-no-ads
 sitemap: false
 ---
-
 {% capture notice-1 %}
-**Popular**
+**常用**
 
-+ [Installing Unlaunch](installing-unlaunch)
-+ [Installing HiyaCFW](installing-hiyacfw)
-+ [Installing TWiLight Menu++](installing-twilight-menu++)
++ [安装 Unlaunch](installing-unlaunch)
++ [安装 HiyaCFW](installing-hiyacfw)
++ [安装 TWiLightMenu++](installing-twilight-menu++)
++ [烧录卡相关](flashcard)
+
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**All**
+**其他**
 
 + [Credits](credits)
 + [Donations](donations)
-+ [Dumping DSiWare](dumping-dsiware)
++ [导出 DSiWare](dumping-dsiware)
 + [F3 (Linux)](f3-(linux))
 + [F3X (Mac)](f3x-(mac))
 + [FAQ](faq)
-+ [File Extensions (Windows)](file-extensions-(windows))
++ [显示文件扩展名 (Windows)](file-extensions-(windows))
 + [H2testw (Windows)](h2testw-(windows))
-+ [Home](/)
-+ [Installing DSiWare](installing-dsiware)
-+ [Installing HiyaCFW](installing-hiyacfw)
-+ [Installing TWiLight Menu++](installing-twilight-menu++)
-+ [Installing Unlaunch (TempNAND)](installing-unlaunch-(tempnand))
-+ [Installing Unlaunch](installing-unlaunch)
++ [主页](/)
++ [安装 DSiWare](installing-dsiware)
++ [安装 Unlaunch(TempNAND)](installing-unlaunch-(tempnand))
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
