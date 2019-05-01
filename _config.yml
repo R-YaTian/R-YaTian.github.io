@@ -8,10 +8,10 @@
 minimal_mistakes_skin    : "nord"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "DS Homebrew"
 title_separator          : "-"
-name                     : "NightYoshi370 & emiyl"
+name                     : "NightYoshi370 & emiyl & R-YaTian"
 description              : "A complete guide to homebrewing your Nintendo (3)DS(i)."
 url                      : "https://r-yatian.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : "r-yatian.github.io"
