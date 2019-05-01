@@ -4,7 +4,7 @@ title: DS Homebrew
 excerpt: "A complete guide to homebrewing your Nintendo (3)DS(i)."
 header:
   overlay_color: "#1a1d24"
-  cta_label: "Get Started"
+  cta_label: "开始"
   cta_url: getting-started
 ---
 
