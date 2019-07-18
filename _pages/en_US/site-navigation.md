@@ -26,6 +26,5 @@ sitemap: false
 + [显示文件扩展名 (Windows)](file-extensions-(windows))
 + [导出 DSiWare](dumping-dsiware)
 + [安装 DSiWare](installing-dsiware)
-+ [安装 Unlaunch(TempNAND)](installing-unlaunch-(tempnand))
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
