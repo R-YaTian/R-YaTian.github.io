@@ -7,9 +7,6 @@ main:
     title: FAQ
     url: faq
   -
-    title: 导出 DSiWare
-    url: dumping-dsiware
-  -
     title: 安装 DSiWare
     url: installing-dsiware
   -
