@@ -1,5 +1,5 @@
 ---
-title: Flashcard Firmwares
+title: 烧录卡相关
 ---
 
 {% include toc title="烧录卡列表" %}
