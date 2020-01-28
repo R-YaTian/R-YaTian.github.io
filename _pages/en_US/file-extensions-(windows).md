@@ -1,18 +1,18 @@
 ---
-title: "File Extensions (Windows)"
+title: "显示文件扩展名"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="内容表" %}
 
 This add-on section disables Windows's default behavior of hiding file extentions, which makes it easier for you to find the referenced file in the guide.
 
-### Instructions
+### 说明
 
 #### Windows 10 / 8.1 / 8
 
-1. Launch File Explorer by opening any directory, such as your SD card directory
-1. Click the "View" option on the ribbon menu 
-1. Check the box labeled "File name extensions"
+1. 启动文件资源管理器(可以通过 此电脑/这台电脑 或 任务栏图标 打开)
+1. 在功能区菜单单击 "查看"
+1. 勾选 "文件扩展名"
 
     ![]({{ "/assets/images/windows-10-file-extensions.png" | absolute_url }})
     {: .notice--info}
