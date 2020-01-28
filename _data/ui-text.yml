@@ -3,7 +3,6 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-zh: &DEFAULT_ZH
   page                       : "页面"
   pagination_previous        : "向前"
   pagination_next            : "向后"
