@@ -22,14 +22,16 @@ header:
 
 DS自制程序可以免费运行在您的DSi(需要先安装Unlaunch)。
 {: .notice--info}
+
 DS自制程序可以免费运行在您的3DS，只要您安装有3DS CFW。
 {: .notice--info}
+
 DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你有NDS烧录卡。
 {: .notice--info}
 
 ## 这个向导能帮到我什么?
 
-For Nintendo DS users, this guide will setup your flashcard to be able to play Nintendo DS ROMs as well as install FlashMe onto your console.     
+对于任天堂 DS Phat(饭盒机) 或 DS Lite 用户，此教程帮助你安装 烧录卡内核 以运行NDS游戏。
 For Nintendo DSi users, this guide will install HiyaCFW, a custom firmware for the DSi.      
 For Nintendo 3DS users, this guide will enable you to play Nintendo DS ROMs through nds-bootstrap.
 
