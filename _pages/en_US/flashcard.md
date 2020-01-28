@@ -2,14 +2,14 @@
 title: Flashcard Firmwares
 ---
 
-{% include toc title="List of Firmwares" %}
+{% include toc title="烧录卡列表" %}
 
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcart.
 We prioritize updated operating systems over the official and unsupported ones. For example, we would rather direct users to Wood R4 rather than the original R4 system files which haven't been updated for years.
 
 The list should be sorted alphabetically.
 
-# Original Flashcards
+# "源" 烧录卡
 ## Acekard
 - [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
 - [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
@@ -64,10 +64,9 @@ The list should be sorted alphabetically.
 - [Buy on r43ds.org](https://www.r43ds.org/products/Acekard-2i-For-DSi.html)
 - [Buy on digitopz.com](http://www.digitopz.com/buy-acekard-2i-for-dsldsi-with-free-shipping-p-25.html)
 
-### Firmware Upgrade instructions
-
-If you use a DS Lite, copy and run `dsl.nds`.     
-If you use a DSi under 1.4, copy and run `dsi.nds`.
+- 固件升级说明
+- If you use a DS Lite, copy and run `dsl.nds`.     
+- If you use a DSi under 1.4, copy and run `dsi.nds`.
 
 ## CycloDS (i)Evolution
 - [Official website](http://www.cyclopsds.com) (discontinued)
