@@ -19,12 +19,9 @@ sitemap: false
 **其他**
 
 + [FAQ](faq)
-+ [Credits](credits)
-+ [F3 (Linux)](f3-(linux))
-+ [F3X (Mac)](f3x-(mac))
++ [贡献人员名单](credits)
 + [H2testw (Windows)](h2testw-(windows))
 + [显示文件扩展名 (Windows)](file-extensions-(windows))
-+ [导出 DSiWare](dumping-dsiware)
 + [安装 DSiWare](installing-dsiware)
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
