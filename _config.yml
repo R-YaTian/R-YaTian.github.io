@@ -270,7 +270,7 @@ defaults:
     values:
       layout: single-no-ads
       author_profile: false
-      sidebar: true
+      sidebar: false
   - scope:
       path: "_pages/af_ZA"
       type: pages
