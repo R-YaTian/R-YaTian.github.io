@@ -31,7 +31,7 @@ DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你�
 
 ## 这个向导能帮到我什么?
 
-对于任天堂 DS Phat(饭盒机) 或 DS Lite 用户，此教程帮助你安装 烧录卡内核 以运行NDS游戏。
+对于任天堂 DS Phat(饭盒机) 或 DS Lite 用户，此教程帮助你安装 烧录卡内核 以运行NDS游戏。 
 For Nintendo DSi users, this guide will install HiyaCFW, a custom firmware for the DSi.      
 For Nintendo 3DS users, this guide will enable you to play Nintendo DS ROMs through nds-bootstrap.
 
