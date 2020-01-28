@@ -19,18 +19,3 @@ bottom:
 footer:
   -
     title: 源码
-  -
-    title: 总览
-sidebar_pages:
-  -
-    title: 主页
-    url: /
-  -
-    title: 安装 Unlaunch
-    url: installing-unlaunch
-  -
-    title: 安装 HiyaCFW
-    url: installing-hiyacfw
-  -
-    title: 安装 TWiLightMenu++
-    url: installing-twilight-menu++
