@@ -268,9 +268,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-no-ads
       author_profile: false
-      sidebar: false
+      sidebar: true
   - scope:
       path: "_pages/af_ZA"
       type: pages
