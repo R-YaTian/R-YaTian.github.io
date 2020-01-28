@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: DS Homebrew
+title: 主页
 layout: single-no-ads
 excerpt: "在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
@@ -11,14 +11,14 @@ header:
 关于在其他机器运行游戏或安装自制固件,请点击[CFW.Guide](https://cfw.guide).
 {: .notice--primary}
 
-关于安装自制固件的向导不适用于DSi开发机及iQueDSi
+关于安装自制固件的向导不适用于DSi开发机
 {: .notice--danger}
 
 在开始前请阅读所有说明页面(包括本页!)
 {: .notice--info}
-## What is homebrew?
+## 什么是自制程序?
 
-Homebrew applications are custom, user-made software, which haven't been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
+即没有得到官方授权的用户自制程序，包括存档修改工具、游戏、模拟器等。
 
 DS Homebrew can be run for free on your DSi as long as you have a copy of Flipnote Studio or a previous DSiWare exploit installed.   
 DS Homebrew can be run for free on your 3DS as long as your have 3DS CFW installed.      
