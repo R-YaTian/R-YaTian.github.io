@@ -19,9 +19,9 @@ layout: single-no-ads
 <a name="faq_uninstall" />**Q:** 我可以安全的卸载Unlaunch吗?
 {: .notice--info}
 
-**A:** UnlaunchV1.5及更高版本的安装程序可以Unlaunch。请记住，如果您在系统NAND上安装了任何DSiWare，或以其他方式弄乱了系统文件，则这可能会导致**您的机器变砖**。
+**A:** UnlaunchV1.5及更高版本的安装程序可以卸载Unlaunch。请记住，如果您在系统NAND上安装了任何DSiWare，或以其他方式弄乱了系统文件，则这可能会导致您的机器 **变砖**。
 
-<a name="faq_wifi" />**Q:** Is it possible to still use DS Wifi services, even though it shut down?
+<a name="faq_wifi" />**Q:** 不是说DS Wifi的官方服务器已经关闭了么，我现在还能使用DS Wifi服务吗?
 {: .notice--info}
 
-**A:** By following [this guide](https://gist.github.com/jaames/5e1c0fcea96a3e47f888526d28531720), it is possible to still use Nintendo Wifi Services even though it has shut down back in 2014.
+**A:** 跟着这个[教程](https://gist.github.com/jaames/5e1c0fcea96a3e47f888526d28531720)操作，这让你可以继续使用DS Wifi服务(通过私人自制服务器),即使任天堂在2014年关闭了DS Wifi服务。
