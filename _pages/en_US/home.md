@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: 主页
 layout: single-no-ads
 excerpt: "此向导帮助你在 Nintendo (3)DS(i) 上运行NDS游戏"
