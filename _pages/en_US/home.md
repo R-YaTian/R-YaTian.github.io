@@ -8,7 +8,7 @@ header:
   cta_label: "开始"
   cta_url: getting-started
 ---
-关于在其他机器运行游戏或安装自制固件,请点击[CFW.Guide](https://cfw.guide).
+关于在其他机器运行游戏或安装自制固件,请点击[CFW.Guide](https://cfw.guide)
 {: .notice--primary}
 
 关于安装自制固件的向导不适用于DSi开发机
@@ -21,8 +21,11 @@ header:
 即没有得到官方授权的用户自制程序，包括存档修改工具、游戏、模拟器等。
 
 DS自制程序可以免费运行在您的DSi(需要先安装Unlaunch)。
+{: .notice--info}
 DS自制程序可以免费运行在您的3DS，只要您安装有3DS CFW。
+{: .notice--info}
 DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你有NDS烧录卡。
+{: .notice--info}
 
 ## 这个向导能帮到我什么?
 
