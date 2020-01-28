@@ -31,4 +31,4 @@ title: "Credits"
 
 </pre>{% endcapture %}
 
-<div class="notice">{{ notice-1 | markdownify }}</div>
+<div class="notice">{{ notice--info }}</div>
