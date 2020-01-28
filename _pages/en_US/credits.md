@@ -1,5 +1,6 @@
 ---
-title: "Credits"
+title: "贡献人员名单"
+layout: single-no-ads
 ---
 {% capture notice-1 %}<pre>
 
@@ -31,4 +32,4 @@ title: "Credits"
 
 </pre>{% endcapture %}
 
-<div class="notice">{{ notice--info }}</div>
+<div class="notice">{{ notice-1 | markdownify }}</div>
