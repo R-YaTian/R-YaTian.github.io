@@ -22,7 +22,7 @@ header:
 
 DS自制程序可以免费运行在您的DSi(需要先安装Unlaunch)。  
 DS自制程序可以免费运行在您的3DS，只要您安装有3DS CFW。 
-DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你有NDS烧录卡。
+DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你有NDS烧录卡。  
 
 ## 这个向导能帮到我什么?
 
