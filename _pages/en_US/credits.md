@@ -1,9 +1,6 @@
 ---
 title: "Credits"
 ---
-
-If I forgot you here, contact me and I'll add your name.
-
 {% capture notice-1 %}<pre>
 
     + jerbear64
@@ -29,6 +26,8 @@ If I forgot you here, contact me and I'll add your name.
     + takusan
     + smileyhead
     + Plailect
+    + R-YaTian
+    + babyQ
 
 </pre>{% endcapture %}
 
