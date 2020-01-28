@@ -1,6 +1,7 @@
 ---
-layout: splash&single-no-ads
+layout: splash
 title: DS Homebrew
+layout: single-no-ads
 excerpt: "在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
   overlay_color: "#1a1d24"
