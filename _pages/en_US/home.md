@@ -2,7 +2,7 @@
 layout: splash
 title: 主页
 layout: single-no-ads
-excerpt: "在 Nintendo (3)DS(i) 上运行NDS游戏"
+excerpt: "此向导帮助你在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
   overlay_color: "#1a1d24"
   cta_label: "开始"
@@ -20,11 +20,11 @@ header:
 
 即没有得到官方授权的用户自制程序，包括存档修改工具、游戏、模拟器等。
 
-DS Homebrew can be run for free on your DSi as long as you have a copy of Flipnote Studio or a previous DSiWare exploit installed.   
-DS Homebrew can be run for free on your 3DS as long as your have 3DS CFW installed.      
-DS Homebrew can be run on your original DS as long as you have a Nintendo DS flashcard
+DS自制程序可以免费运行在您的DSi(需要先安装Unlaunch)。
+DS自制程序可以免费运行在您的3DS，只要您安装有3DS CFW。
+DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你有NDS烧录卡。
 
-## What does this guide install?
+## 这个向导能帮到我什么?
 
 For Nintendo DS users, this guide will setup your flashcard to be able to play Nintendo DS ROMs as well as install FlashMe onto your console.     
 For Nintendo DSi users, this guide will install HiyaCFW, a custom firmware for the DSi.      
