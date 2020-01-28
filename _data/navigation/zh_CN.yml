@@ -23,7 +23,7 @@ footer:
     title: 网站导航
 sidebar_title:
   -
-    title: Overall Progress
+    title: 总览
 sidebar_pages:
   -
     title: 主页
@@ -31,9 +31,6 @@ sidebar_pages:
   -
     title: 安装 Unlaunch
     url: installing-unlaunch
-  -
-    title: 安装 Unlaunch (TempNAND)
-    url: installing-unlaunch-(tempnand)
   -
     title: 安装 HiyaCFW
     url: installing-hiyacfw
