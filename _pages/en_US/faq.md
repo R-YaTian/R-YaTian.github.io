@@ -24,4 +24,4 @@ layout: single-no-ads
 <a name="faq_wifi" />**Q:** 不是说DS Wifi的官方服务器已经关闭了么，我现在还能使用DS Wifi服务吗?
 {: .notice--info}
 
-**A:** 跟着这个[教程](https://gist.github.com/jaames/5e1c0fcea96a3e47f888526d28531720)操作，这让你可以继续使用DS Wifi服务(通过私人自制服务器),即使任天堂在2014年关闭了DS Wifi服务。
+**A:** 跟着这个 [教程](https://gist.github.com/jaames/5e1c0fcea96a3e47f888526d28531720) 操作，这让你可以继续使用DS Wifi服务(通过私人自制服务器),即使任天堂在2014年关闭了DS Wifi服务。
