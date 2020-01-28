@@ -1,6 +1,10 @@
 ---
 title: "FAQ"
+layout: single-no-ads
 ---
+
+如果你需要帮助,请加QQ群:715782902
+{: .notice--info}
 
 <a name="faq_fatmismatch" />**Q:** Unlaunch freezes at `MISMATCH IN FAT COPIES`. What do I do?
 {: .notice--info}
