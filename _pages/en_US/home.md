@@ -1,5 +1,5 @@
 ---
-layout: splash,single-no-ads
+layout: splash&single-no-ads
 title: DS Homebrew
 excerpt: "在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
