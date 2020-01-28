@@ -6,10 +6,10 @@ layout: single-no-ads
 如果你需要帮助,请加QQ群:715782902
 {: .notice--info}
 
-<a name="faq_fatmismatch" />**Q:** Unlaunch freezes at `MISMATCH IN FAT COPIES`. What do I do?
+<a name="faq_fatmismatch" />**Q:** Unlaunch 卡在 `MISMATCH IN FAT COPIES` 我该怎么办?
 {: .notice--info}
 
-**A:** This error is caused by twlnf. It has a critical bug that doesn't properly update the entire NAND after modifying it. This causes certain homebrew (like the Unlaunch installer) to throw an error. Fortunately, this is fixable. Unfortunately, the *method* to fix it isn't set in stone, and largely varies from system to system. Generally, deleting any DSiWare installed via twlnf in the past does the job, but make sure you have another homebrew entrypoint available if you delete an entrypoint. It has also been reported that moving *all* DSiWare to the SD card and back to the system can help in some cases.
+**A:** 这个错误是由twlnf引起的。它有一个很严重的bug:无法在修改后正确更新整个NAND。这导致某些自制程序(如Unlaunch安装程序)报错。好在,此问题是可以解决的,但修复它的 "方法" 并不是固定的,而且在很大程度上因系统而异。通常,删除过去通过twlnf安装的任何DSiWare都可以解决此问题。或者把所有 DSiWare 移到SD卡并移回系统可能会有帮助。(总之,不要再使用 twlnf 往 机身存储 安装 DSiWare)
 
 <a name="faq_2gbsd" />**Q:** Can I use an SD card higher than 2GB with HiyaCFW?
 {: .notice--info}
