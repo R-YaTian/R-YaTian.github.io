@@ -20,8 +20,8 @@ sitemap: false
 
 + [FAQ](faq)
 + [贡献人员名单](credits)
-+ [H2testw (Windows)](h2testw-(windows))
-+ [显示文件扩展名 (Windows)](file-extensions-(windows))
++ [H2testw(存储卡测试)](h2testw)
++ [显示文件扩展名](file-extensions)
 + [安装 DSiWare](installing-dsiware)
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
