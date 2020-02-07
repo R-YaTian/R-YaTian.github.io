@@ -38,9 +38,7 @@ DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你�
 对于任天堂3DS用户，此向导将让你能够运行 NDS游戏(通过nds-bootstrap)
 {: .notice--info}
 
-Custom firmware enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, signature patches let you install unsigned titles that appear right on your System Menu.
-
-## What should I know before starting?
+## 在我开始操作前需要了解什么?
 
 - Homebrew allows you to modify your system, which could easily result in a brick if done improperly
 - Keep your console plugged in at all times during this process to avoid sudden power loss
