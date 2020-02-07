@@ -35,7 +35,7 @@ DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你�
 对于任天堂DSi用户，此向导帮助你安装HiyaCFW(DSi的自制固件)
 {: .notice--info}
 
-对于任天堂3DS用户，此向导将让你能够运行 任天堂DS游戏(通过nds-bootstrap)
+对于任天堂3DS用户，此向导将让你能够运行 NDS游戏(通过nds-bootstrap)
 {: .notice--info}
 
 Custom firmware enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, signature patches let you install unsigned titles that appear right on your System Menu.
