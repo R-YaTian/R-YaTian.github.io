@@ -18,7 +18,7 @@ title: "存储卡测试(H2testw)"
 
 ### Instructions
 
-1. 从 h2testw `.zip` 中解压 `h2testw.exe` 到你的桌面(或其他任意位置)
+1. 从 `h2testw.zip` 中解压 `h2testw.exe` 到你的桌面(或其他任意位置)
 1. 把你的SD卡插到电脑上
 1. 运行 `h2testw.exe`
 1. 点击 "选择路径"
@@ -32,7 +32,7 @@ ___
 如果测试结束并显示 `测试已完成,没有发现错误.`, 这说明你的SD卡状态良好, 你可以进行格式化并继续进行下一步操作
 {: .notice--info}
 
-如果测试结束后你看到其他任何结果, 你的SD卡可能已损坏并且你可能需要换一张卡
+如果测试结束后出现其他任何结果, 你的SD卡可能已损坏并且你可能需要换一张卡
 {: .notice--danger}
 
 回到 [安装 Unlaunch](installing-unlaunch)
