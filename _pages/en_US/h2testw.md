@@ -1,12 +1,12 @@
 ---
-title: "H2testw (Windows)"
+title: "存储卡测试(H2testw)"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="内容表" %}
 
-### Required Reading
+### 请先阅读
 
-This is an add-on section for checking your SD card for errors using h2testw.
+这是一个使用h2testw来检查你的SD卡有无错误的额外环节
 
 Depending on the size of your SD card and the speed of your computer, this process can take up to several hours!
 
