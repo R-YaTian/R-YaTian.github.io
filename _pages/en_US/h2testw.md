@@ -16,7 +16,7 @@ title: "存储卡测试(H2testw)"
 
 * 最新版本的 [h2testw](/assets/files/h2testw.zip)
 
-### Instructions
+### 步骤说明
 
 1. 从 `h2testw.zip` 中解压 `h2testw.exe` 到你的桌面(或其他任意位置)
 1. 把你的SD卡插到电脑上
