@@ -8,9 +8,9 @@ title: "存储卡测试(H2testw)"
 
 这是一个使用h2testw来检查你的SD卡有无错误的额外环节
 
-Depending on the size of your SD card and the speed of your computer, this process can take up to several hours!
+测试所花费的时间取决于你的SD卡大小及电脑速度, 这个过程可能持续几个小时!
 
-This page is for Windows users only. If you are not on windows, check out the [F3 (linux)](f3-(linux)) or [F3X (mac)](f3x-(mac)) pages.
+你最好在测试之前格式化你的SD卡
 
 ### 你需要准备
 
@@ -18,23 +18,22 @@ This page is for Windows users only. If you are not on windows, check out the [F
 
 ### Instructions
 
-1. Copy `h2testw.exe` from the h2testw `.zip` to your desktop
-1. Insert your SD card into your computer
-1. Run `h2testw.exe`
-1. Select "English"
-1. Click "Select target"
-1. Select your SD card's drive letter
-1. Ensure "all available space" is selected
-1. Click "Write + Verify"
-1. Wait until the process is completed
+1. 从 h2testw `.zip` 中解压 `h2testw.exe` 到你的桌面(或其他任意位置)
+1. 把你的SD卡插到电脑上
+1. 运行 `h2testw.exe`
+1. 点击 "选择路径"
+1. 选择SD卡所在盘符
+1. 确认 "所有可用的空间" 已被选择
+1. 点击 "写入并测试"
+1. 等待测试过程结束
 
 ___
 
-If the test shows the result `Test finished without errors`, your SD card is good and you can delete all `.h2w` files on your SD card
+如果测试结束并显示 `Test finished without errors`, 这说明你的SD卡状态良好, 你可以进行格式化并继续进行下一步操作
 {: .notice--info}
 
-If the test shows any other results, your SD card may be corrupted or damaged and you may have to replace it!
+如果测试结束后你看到其他任何结果, 你的SD卡可能已损坏并且你可能需要换一张卡
 {: .notice--danger}
 
-Return to [Installing Unlaunch](installing-unlaunch)
+回到 [安装 Unlaunch](installing-unlaunch)
 {: .notice--info}
