@@ -1,6 +1,5 @@
 ---
 title: 主页
-layout: single-no-ads
 excerpt: "此向导帮助你在 Nintendo (3)DS(i) 上运行NDS游戏"
 header:
   overlay_color: "#1a1d24"
@@ -30,9 +29,14 @@ DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你�
 
 ## 这个向导能帮到我什么?
 
-对于任天堂 DS Phat(饭盒机) 或 DS Lite 用户，此向导帮助你安装 烧录卡内核 以运行NDS游戏。  
-对于任天堂DSi用户，此向导帮助你安装HiyaCFW(DSi的自制固件)      
-For Nintendo 3DS users, this guide will enable you to play Nintendo DS ROMs through nds-bootstrap.
+对于任天堂 DS Phat(饭盒机) 或 DS Lite 用户，此向导帮助你安装 烧录卡内核 以运行NDS游戏
+{: .notice--info}
+
+对于任天堂DSi用户，此向导帮助你安装HiyaCFW(DSi的自制固件)
+{: .notice--info}
+
+对于任天堂3DS用户，此向导将让你能够运行 任天堂DS游戏(通过nds-bootstrap)
+{: .notice--info}
 
 Custom firmware enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, signature patches let you install unsigned titles that appear right on your System Menu.
 
