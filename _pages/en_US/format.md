@@ -7,6 +7,7 @@ title: "存储卡格式化"
 ### 请先阅读
 
    这是一个使用 专业格式化工具 格式化存储卡的必备步骤!
+   请务必要阅读 "注意事项与额外步骤"
 
 ### 你需要准备
 
@@ -26,7 +27,7 @@ title: "存储卡格式化"
 
 ### 注意事项与额外步骤
 
-如果你的SD卡容量在 "2G及以下" 或 "64G及以上", 你还需要在完成以上格式化步骤后使用[Guiformat](/assets/files/guiformat.zip)将你的SD卡格式化为FAT32
+如果你的SD卡容量在 "2G及以下" 或 "64G及以上", 你还需要在完成以上格式化步骤后使用 [Guiformat](/assets/files/guiformat.zip) 将你的SD卡格式化为FAT32
 {: .notice--danger}
 
 1. 解压 `guiformat.zip` 中的所有文件到一个文件夹
