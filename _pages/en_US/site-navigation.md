@@ -1,6 +1,5 @@
 ---
 title: "网站导航" #
-layout: single-no-ads
 sitemap: false
 ---
 {% capture notice-1 %}
@@ -10,6 +9,7 @@ sitemap: false
 + [安装 Unlaunch](installing-unlaunch)
 + [安装 HiyaCFW](installing-hiyacfw)
 + [安装 TWiLightMenu++](installing-twilight-menu++)
++ [存储卡格式化](format)
 + [烧录卡相关](flashcard)
 
 {% endcapture %}
