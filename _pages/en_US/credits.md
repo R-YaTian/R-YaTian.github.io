@@ -1,6 +1,5 @@
 ---
 title: "贡献人员名单"
-layout: single-no-ads
 ---
 {% capture notice-1 %}<pre>
 
@@ -28,7 +27,7 @@ layout: single-no-ads
     + smileyhead
     + Plailect
     + R-YaTian
-    + babyQ
+    + babyQ/Starfy
 
 </pre>{% endcapture %}
 
