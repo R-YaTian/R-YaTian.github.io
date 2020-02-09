@@ -1,15 +1,13 @@
 ---
 title: Installing Unlaunch
-redirect_from:
-  - /guide/installing-unlaunch
 ---
 
 {% include toc title="Table of Contents" %}
 
-Before starting, Windows users should enable the option to show file extensions using [File Extensions (Windows)](file-extensions-(windows))!
+Before starting, Windows users should enable the option to show file extensions using [显示文件扩展名](file-extensions)!
 {: .notice--primary}
 
-Before starting, you may want to check your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))!
+Before starting, you may want to check your SD card for errors using [存储卡测试](h2testw)
 {: .notice--primary}
 
 Before proceeding, if your system region is USA, make sure your console language is set to English.
