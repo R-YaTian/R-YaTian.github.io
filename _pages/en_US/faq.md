@@ -1,6 +1,5 @@
 ---
 title: "FAQ"
-layout: single-no-ads
 ---
 
 如果你需要帮助,请加QQ群: 715782902
