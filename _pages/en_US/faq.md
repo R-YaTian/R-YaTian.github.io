@@ -14,7 +14,7 @@ layout: single-no-ads
 <a name="faq_2gbsd" />**Q:** 我可以使用 大于2G的SD卡 安装并运行 HiyaCFW 吗?
 {: .notice--info}
 
-**A:** 使用类似 GUIFormat 的工具低格你的SD卡可能会有帮助，但这不会让你绕开DSi系统菜单的block限制。不过，你可以 [使用TWiLightMenu++替代系统菜单](installing-twilight-menu++) 来 “解决” 这个问题。
+**A:** 使用类似 [GUIFormat](/assets/files/guiformat.zip) 的工具低格你的SD卡可能会有帮助，但这不会让你绕开DSi系统菜单的block限制。不过，你可以 [使用TWiLightMenu++替代系统菜单](installing-twilight-menu++) 来 “解决” 这个问题。
 
 <a name="faq_uninstall" />**Q:** 我可以安全的卸载Unlaunch吗?
 {: .notice--info}
