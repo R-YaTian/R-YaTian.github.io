@@ -42,6 +42,6 @@ DS自制程序可以运行在您的 DS Phat(饭盒机) 或 DS Lite，只要你�
 
 - Homebrew allows you to modify your system, which could easily result in a brick if done improperly
 - Keep your console plugged in at all times during this process to avoid sudden power loss
-- You will need an SD card to use this guide
-  - Your console should come with one
+- 你需要一张SD卡来进行操作
+  - 当然也可以用TF卡+SD卡套
 - After following this guide, you will be able to use flashcards you were previously unable to boot into due to blacklists set inside the official firmware.
