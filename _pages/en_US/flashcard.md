@@ -203,10 +203,10 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - 3DS兼容性: 支持
 
 # 克隆&山寨
-**"Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
-**A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
-**A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
-**Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
+**"Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.**
+**A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).**
+**A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.**
+**Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)**
 ## Ace3DS Plus
 - [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
 - [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
@@ -273,9 +273,6 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - [GBATemp Review](https://gbatemp.net/threads/games-n-music.91189/)
 
 **This Flashcard does not normally boot retail ROMs. You'll need to use nds-bootstrap's flashcard branch in order to load retail ROMs** 
-
-## Gateway 3DS (Blue card)
-
 
 ## GEi DS
 - [Official website](http://www.ge.ndsi.in/)
@@ -405,8 +402,8 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - [Official Website](https://www.r4dsixl3d.com/)
 
 ## R4i (ndsill.net)
-- [Official Website](http://www.ndsill.net) (discontinued)
-- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
+- DSTTi克隆
+- 内核:
 
 ## R4i (r4i.cn)
 - [Official website](http://www.r4i.cn/) (discontinued)
