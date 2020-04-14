@@ -194,38 +194,19 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - [Buy on digitopz.com](http://www.digitopz.com/supercard-ds-onei-p-36.html)
 
 ## SuperCard DSTWO
-- [Official website](http://eng.supercard.sc/manual/dstwo/)
-- [System files](http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html)
-- Official plugins: [Media Player](http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html), [GBA Emulator](http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html), [SNES Emulator](http://filetrip.net/g35131424-CATSFC.html), [Document Viewer](http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html)
-- DSi compatible: Yes
-- [GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.232281/)
-- [Another GBATemp (with EOS 1.08) Review](https://gbatemp.net/threads/supercard-dstwo-w-eos-v1-08-review.270748/#post-3341837)
-- [Yet Another GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.241242/)
-- [ProGamers Review](https://gbatemp.net/threads/review-of-the-supercard-dstwo.230755/)
-- [DSDatabase Review](http://dsdatabase.org/content.php/58-Supercard-DSTwo-Review)
-- [CodeDonut Review](https://www.codedonut.com/ds-hacking/supercard-dstwo-review/)
-- [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo.html) (out of stock)
-- [Buy on digitopz.com](http://www.digitopz.com/supercard-dstwo-for-new3ds3dsxln3dsn3ds-xlndsixlndsindslnds-p-37.html)
-- [Buy on 3ds-flashcard.cc](http://3ds-flashcard.cc/home/10-supercard-dstwo-for-nintendo-3ds-dsi-xl-dsi-v145.html)
+- [官网](http://eng.supercard.sc/manual/dstwo/)
+- DSi兼容性: 支持
 
 ## SuperCard DSTWO +
-- [Official Website](http://eng.supercard.sc/index.html)
-- [GBATemp Review](https://gbatemp.net/review/dstwo.412/)
-- [Buy on r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo-Plus.html)
-- [Buy on 3ds-flashcard.cc](http://3ds-flashcard.cc/home/52-dstwo-plus-for-3dsds-game.html)
-- [Buy on royal3ds.com](http://www.royal3ds.com/buy-supercard-dstwo-plusdstwo-for-playing-3ds-ds-gba-games-14.html)
-- [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=135)
-- [Buy on stargate3ds.org](http://stargate3ds.org/home/11-supercard-dstwo-plus.html)
-- [Buy on modchipsdirect.com](http://www.modchipsdirect.com/supercard-ds2-plus-ds-two-plus.html)
+- [官网](http://eng.supercard.sc/index.html)
+- DSi兼容性: 可能不支持V1.4.5
+- 3DS兼容性: 支持
 
-# Clones & Fakes
+# 克隆&山寨
 - "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
 - A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
 - A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
 - Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
-
-## Ace3DS 
-
 ## Ace3DS Plus
 - [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
 - [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
@@ -301,7 +282,6 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/GEiv4.2_ZH.zip?raw=true)]
 - Clone of the R4
 
-## Gold R4i (r4ids.com)
 ## Hyper R4i
 - [Official Website](http://hyper4i.com)
 - [English System Files]()
@@ -376,29 +356,14 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - [Official Website](http://www.dsnd1.com/) (discontinued)
 - Clone of the N5, which is a clone of the R4
 
-## NinjaDS
-
 ## NPlayer
 - [Official Website](http://www.ndsplayer.com/) (discontinued)
 - [DSDatabase Review](http://dsdatabase.org/showthread.php/409-NPlayer)
 - System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Korean.zip?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Italian.zip?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Spanish.zip?raw=true)]
 
-## QQ3DS
-- [Buy on 3dsflashkart.com](http://www.3dsflashkart.com/qq3ds-break-all-ds3ds-backup-games-for-any-3ds3dsxl2dsnew-3ds-p-293.html)
-
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
 - [Official website](http://r4-usas.com/) ([Archive](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/))
 - [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
-
-## R4 Advance
-
-## R4 Deluxe
-
-## R4 DSi XL
-
-## R4 i.L.S.
-
-## R4 II
 
 ## R4 III (r4-dsl.net)
 - [Official website](http://www.r4-dsl.net/)
@@ -406,14 +371,8 @@ We prioritize updated operating systems over the official and unsupported ones. 
 ## R4 III (r4iiinew.com)
 - [Official Webiste](http://r4iiinew.com)
 
-## R4 III SDHC
-
 ## R4 III Upgrade (r4dsl.net)
 - [Official website](http://www.r4dsl.net/) (discontinued)
-
-## R4 King
-
-## R4 New
 
 ## R4 Plus (r4.ndsl.cc)
 - [Official website](http://www.r4.ndsl.cc/) (discontinued)
@@ -422,8 +381,6 @@ We prioritize updated operating systems over the official and unsupported ones. 
 ## R4 Plus (r4plus.net)
 - [Official website](http://www.r4plus.net/) (discontinued)
 - System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v2.01_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v2.01_Korean.zip?raw=true)/[Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v1.16_Chinese.zip?raw=true)]
-
-## R4 Pro
 
 ## R4 SDHC (r4new.com)
 - [Official website](http://www.r4new.com/) (discontinued)
@@ -437,20 +394,12 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - [System files](http://filetrip.net/f22650-R4-SDHC-Upgrade-%28r4i-sdhc-com%29-1-27b-English.html)
 - DSi compatible: No
 
-## R4 Team
-
-## R4 Top
-
 ## R4 Ultra
 - [Official website](http://www.r4ultra.com) (discontinued)
 - [System files](http://www.r4ultra.com/download.htm) (discontinued)
 
 ## R4 Upgrade (r4-dsl.net)
 - [Official website](http://www.r4-dsl.net/)
-
-## R4 v
-
-## R4ds-i
 
 ## R4dsixl3d
 - [Official Website](https://www.r4dsixl3d.com/)
