@@ -50,33 +50,16 @@ The list should be sorted alphabetically.
 - [Buy from r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
 
 ## Acekard 2i
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
-- DSi compatible: Up to (and including) v1.4.4
-- 3DS compatible: Up to (and including) v4.3.0
-- NTRBoot Compatible.
-- [Official GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.122563/)
-- [GBATemp Review](https://gbatemp.net/threads/acekard-2i-review.269055/)
-- [KingdomBlade's Review](https://gbatemp.net/threads/acekard-2i-review.171515/)
-- [DSiHacker Review](http://dsihacker.com/acekard-2i.php)
-- [Buy on nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=160)
-- [Buy on r43ds.org](https://www.r43ds.org/products/Acekard-2i-For-DSi.html)
-- [Buy on digitopz.com](http://www.digitopz.com/buy-acekard-2i-for-dsldsi-with-free-shipping-p-25.html)
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
+- [固件升级](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
+- DSi兼容性: 最高V1.4.4
+- 3DS兼容性: 最高V4.3.0(出厂固件直接支持最新版本3DS系统)
+- 支持NTRBoot
 
 - 固件升级说明
-- If you use a DS Lite, copy and run `dsl.nds`.     
-- If you use a DSi under 1.4, copy and run `dsi.nds`.
-
-## CycloDS (i)Evolution
-- [Official website](http://www.cyclopsds.com) (discontinued)
-- [Team Cyclops Forums](http://www.teamcyclops.com/forum) (discontinued)
-- System files: \[[Stable](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25158-evo-firmware-2.3.zip?raw=true)/[Beta](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24709-evo-firmware-BETA-B.7.zip?raw=true)]
-- DSi compatible: No
-- [GBATemp Review](https://gbatemp.net/threads/cyclods-evolution-review.53450/)
-- [RockStar99's Review](https://gbatemp.net/threads/rockstar99s-cyclods-review.161605/#post-2054227)
-- [DSDatabase Review](http://dsdatabase.org/showthread.php/1900-Cyclo-DS-iEvolution-Review)
-- [Buy iEvolution on digitopz.com](http://www.digitopz.com/cyclods-ievolution-flashcard-for-dsdsi3ds-p-702.html)
+- 如果使用 DS Lite, 运行 `dsl.nds`
+- 如果使用系统版本低于V1.4的 DSi, 运行 `dsi.nds`
 
 ### Update instructions
 
