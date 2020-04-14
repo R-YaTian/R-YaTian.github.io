@@ -7,15 +7,13 @@ title: 烧录卡相关
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcart.
 We prioritize updated operating systems over the official and unsupported ones. For example, we would rather direct users to Wood R4 rather than the original R4 system files which haven't been updated for years.
 
-The list should be sorted alphabetically.
+此列表按名称首字母排序
 
 # "源" 烧录卡
 ## Acekard
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
-- DSi compatible: No
-- [GBAtemp Review](https://gbatemp.net/threads/acekard-review.39686/)
-- This card is no longer officially supported
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核(英文版)](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18449-AceKard_Manager_v1.03_Menu_v1.10_English.rar?raw=true)
+- DSi兼容性: 不支持
 
 ## Acekard+
 - [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
@@ -50,28 +48,18 @@ The list should be sorted alphabetically.
 - 如果使用系统版本低于V1.4的 DSi, 运行 `dsi.nds`
 
 ## DS Link
-- [Official website](http://www.ds-link.net/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18533-DSLink_v2.32_20090206.zip?raw=true)
-- [GBATemp Review](https://gbatemp.net/threads/dslink-review.37209/)
-- [DSDatabase Review](http://dsdatabase.org/showthread.php/566-DSLink)
-- DSi compatible: No
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18533-DSLink_v2.32_20090206.zip?raw=true)
+- DSi兼容性: 不支持
 
 ## DS-Xtreme
-- [Official website](http://www.ds-x.com/) ([Archive](https://web.archive.org/web/20080916000621/http://www.ds-x.com/cgi-bin/dsx/engine.pl?page=home))
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
-- DSi compatible: No
-- [DSFlash Review](http://dsflash.com/ds-xtreme.htm)
-- [GBATemp Review](https://gbatemp.net/threads/ds-xtreme-review.38174/)
+- [官网快照](https://web.archive.org/web/20080916000621/http://www.ds-x.com/cgi-bin/dsx/engine.pl?page=home)
+- [固件升级程序](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
+- DSi兼容性: 不支持
 
 ## DSTT/DSTTi
-- [Official website](http://www.ndstt.net/)
-- DSi compatible: No
-- [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
-- [Buy on nds-card.com](https://nds-card.com/ProShow.asp?ProID=157)
-- [Buy on r43ds.org](https://www.r43ds.org/products/DSTT-Card.html)
-- Buy on digitopz.com: \[[DSTT](http://www.digitopz.com/dstt-top-toy-ds-p-20.html)/[DSTTi](http://www.digitopz.com/dstti-for-dsi-ds-support-sdhc-p-17.html)]
+- [官网](http://www.ndstt.net/)
+- DSi兼容性: 仅TTi最高支持V1.4.4
 - Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
-- This card is no longer officially supported
 
 ## EDGE/iEDGE
 - [Official website](http://www.edge-ds.cn/)
