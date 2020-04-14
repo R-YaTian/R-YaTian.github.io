@@ -203,10 +203,10 @@ We prioritize updated operating systems over the official and unsupported ones. 
 - 3DS兼容性: 支持
 
 # 克隆&山寨
-- "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
-- A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
-- A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
-- Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
+** "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
+** A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
+** A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
+** Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
 ## Ace3DS Plus
 - [GBATemp Review](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
 - [Buy on digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html)
