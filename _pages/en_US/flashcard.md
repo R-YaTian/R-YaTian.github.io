@@ -59,31 +59,21 @@ We prioritize updated operating systems over the official and unsupported ones. 
 ## DSTT/DSTTi
 - [官网](http://www.ndstt.net/)
 - DSi兼容性: 仅TTi最高支持V1.4.4
-- Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
+- 仅部分批次支持NTRBoot
 
 ## EDGE/iEDGE
-- [Official website](http://www.edge-ds.cn/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24706-iEDGE-OS-2-1.3.zip?raw=true)
-- DSi compatible: No
-- [GBATemp Review](https://gbatemp.net/threads/edge-review.74099/)
-- DSDatabase review: \[[EDGE](http://dsdatabase.org/showthread.php/543-EDGE-DS)/[iEDGE](http://dsdatabase.org/showthread.php/1214-iEDGE)]
-- Buy from digitopz.com: \[[EDGE](http://www.digitopz.com/edge-ds-card-microsdhc-support-for-nds-ndsl-p-44.html)/[iEDGE](http://www.digitopz.com/iedge-support-dsi-v14dsl-from-edge-team-p-46.html)]
-- This card is no longer officially supported
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24706-iEDGE-OS-2-1.3.zip?raw=true)
+- DSi兼容性: 未知
 
 ## eWin2
-- [Official website](http://www.ewin2.net/) ([Archive](https://web.archive.org/web/20070517021923/http://www.ewin2.net/))
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18742-eWin2_firmware_v1.96.8EN.rar?raw=true)
-- [GBATemp Review](https://gbatemp.net/threads/ewin2-review.37794/)
-- DSi compatible: No
+- [官网快照](https://web.archive.org/web/20070517021923/http://www.ewin2.net/)
+- [固件升级程序](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18742-eWin2_firmware_v1.96.8EN.rar?raw=true)
+- DSi兼容性: 不支持
 
 ## EZ-Flash IV
-- [Official website](http://www.ezflash.cn/)
-- DSi compatible: No
-- [GBATemp Review](https://gbatemp.net/threads/ez-flash-iv-review.32250/)
-- [HackInformer Review](https://hackinformer.com/2017/03/03/review-ez-flash-iv-gba-gbasp-nds/)
-- [MaxConsole Review](https://www.maxconsole.com/threads/ez-flash-iv-review.25571/)
-- [Buy on digitopz.com](http://www.digitopz.com/buy-ezflash-iv-flashcard-ez4-for-ndsndslgbagbaspgbm-p-1450.html)
-- This card is no longer officially supported
+- [官网](http://www.ezflash.cn/)
+- DSi兼容性: 不支持
+- 此卡官方已不提供支持
 
 ## EZ-Flash V(+)
 - [Official website](http://www.ezflash.cn/)
