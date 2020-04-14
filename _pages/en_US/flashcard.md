@@ -18,41 +18,29 @@ The list should be sorted alphabetically.
 - This card is no longer officially supported
 
 ## Acekard+
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18443-AceKard_Plus_System_English_v1.15.rar?raw=true)
-- DSi compatible: No
-- This card is no longer officially supported
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核(英文版)](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18443-AceKard_Plus_System_English_v1.15.rar?raw=true)
+- DSi兼容性: 不支持
 
 ## Acekard RPG
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32258-Wood_RPG_v1.62.7z?raw=true)
-- DSi compatible: No
-- [GBAtemp Review](https://gbatemp.net/threads/acekard-r-p-g-review.68305/)
-- [DSDatabase Review](http://dsdatabase.org/showthread.php/551-AceKard-RPG)
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/32258-Wood_RPG_v1.62.7z?raw=true)
+- DSi兼容性: 不支持
 
 ## Acekard 2
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/12379-ak2_423_20100721_release.zip?raw=true)
-- DSi compatible: No
-- [GBAtemp Review](https://gbatemp.net/threads/acekard-2-review.79368/)
-- [DSDatabase Review](http://dsdatabase.org/showthread.php/542-AceKard-2)
-- [DCEMUuk Review](http://reviews.dcemu.co.uk/review-acekard-2-ds-card-microsdhc-slot-1-105502.html)
-- [DSTemp Review](https://gbatemp.net/threads/my-acekard-2-review.98141/)
-- 
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/12379-ak2_423_20100721_release.zip?raw=true)
+- DSi兼容性: 不支持
 
 ## Acekard 2.1
-- [Official website](http://www.acekard.com) ([Archive](https://web.archive.org/web/20140209172112/http://www.acekard.com/))
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
-- DSi compatible: No
-- [GBAtemp Review](https://gbatemp.net/threads/acekard-2-1-review.224477/)
-- [DS Database Review](http://dsdatabase.org/showthread.php/408-AceKard-2-1)
-- [DCEMUuk Review](http://www.dcemu.co.uk/vbulletin/threads/172142-Review-Acekard-2-1-DS-MicroSDHC-SLOT-1)
-- [Buy from r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
+- [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
+- [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
+- DSi兼容性: 不支持
 
 ## Acekard 2i
 - [官网快照](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
 - [内核](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/29895-AKAIO.1.9.0.rar?raw=true)
-- [固件升级](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
+- [固件升级程序](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/30073-ak2ifw_update_3ds42_dsi144.zip?raw=true)
 - DSi兼容性: 最高V1.4.4
 - 3DS兼容性: 最高V4.3.0(出厂固件直接支持最新版本3DS系统)
 - 支持NTRBoot
@@ -60,10 +48,6 @@ The list should be sorted alphabetically.
 - 固件升级说明
 - 如果使用 DS Lite, 运行 `dsl.nds`
 - 如果使用系统版本低于V1.4的 DSi, 运行 `dsi.nds`
-
-### Update instructions
-
-Just place the file `update.evo` on the root directory of your MicroSD card. The rest of the process will be automatic.
 
 ## DS Link
 - [Official website](http://www.ds-link.net/)
